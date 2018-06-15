@@ -1,0 +1,137 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Ripper’s Whitechapel</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel='shortcut icon' href='images/favicon.png' type='image/x-icon'/ >
+        <meta name="keywords" content="whitechapel, jack the ripper, history, london" />
+
+        <!-- Data in geoJSON format -->
+        <script src="wcpoints.geojson" type="text/javascript"></script>
+        
+        <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+        <link rel="stylesheet" href="assets/css/styledLayerControl.css">
+        <link rel="stylesheet" href="assets/css/interactivemap_screensizes.css" />
+        <link rel="stylesheet" href="assets/css/main.css" />
+        <link rel="stylesheet" href="assets/css/leaflet_style.css" />
+        <link rel="stylesheet" href="assets/css/jquery-ui.css" />
+        <!-- <link rel="stylesheet" href="assets/css/leaflet.timedimension.control.min.css" /> -->
+        <link rel="stylesheet" href="assets/css/MarkerCluster.css" />
+        <link rel="stylesheet" href="assets/css/MarkerCluster.Default.css" />
+
+        <script type="text/javascript" src="assets/js/jquery.min.js"></script>
+        <script type="text/javascript" src="assets/js/leaflet.js"></script>
+        <script type="text/javascript" src="assets/js/jquery-ui.js"></script>
+        <script type="text/javascript" src="assets/js/Control.FullScreen.min.js"></script>
+        <script type="text/javascript" src="assets/js/iso8601.min.js"></script>
+
+        <!-- Specifically created scripts -->
+<!--         <script type="text/javascript" src="assets/js/utility_control_functions.js"></script>
+ -->        <script type="text/javascript" src="assets/js/catiline.js"></script>
+        <script type="text/javascript" src="assets/js/shp.js"></script>
+        <script type="text/javascript" src="assets/js/leaflet.shpfile.js"></script>
+        <script type="text/javascript" src="assets/js/styledLayerControl.js"></script>
+
+        <script src="assets/js/leaflet.markercluster-src.js"></script>
+
+        <script type="text/javascript" src="https://momentjs.com/downloads/moment.min.js"></script>
+<!--         <script type="text/javascript" src="assets/js/leaflet.timedimension.util.js"></script>
+        <script type="text/javascript" src="assets/js/leaflet.timedimension.layer.js"></script>
+        <script type="text/javascript" src="assets/js/leaflet.timedimension.layer.wms.js"></script>
+         
+        <script type="text/javascript" src="assets/js/leaflet.timedimension.layer.geojson.js"></script>
+        <script type="text/javascript" src="assets/js/leaflet.timedimension.player.js"></script>
+        <script type="text/javascript" src="assets/js/leaflet.timedimension.control.js"></script>    
+        <script type="text/javascript" src="https://rawgit.com/felixge/node-dateformat/master/lib/dateformat.js"></script>     --> 
+
+
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.0/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui-touch-punch/0.2.2/jquery.ui.touch-punch.min.js"></script> -->
+    <script src="https://rawgit.com/dwilhelm89/LeafletSlider/master/SliderControl.js" type="text/javascript"></script>
+
+    </head>
+
+    <body class="landing">
+        <div id="page-wrapper">
+
+            <!-- HEADER -->
+            <script src="assets/js/header.js"></script>
+            <!-- END HEADER -->
+
+            <section id="two" class="wrapper style1 special fade-up">
+                <div id="size_warning_window">
+                    <br /><br />
+                    <p style="color:white;font-size:18pt;">
+                        Unfortunately, your window size is too small for this app.  Please try a larger window size.
+                    </p>
+                </div>
+                <div class="container" id="map_container" style="width:100%;">
+                    <!-- START MAP STUFF -->        
+                    <div id='map' style="width: 95vw;height: 80vh;min-height:700px;z-index: -5"></div>
+                    <div id="instruction_window" style='position:absolute; top: 75px; left: 6vw; font-size:11pt; padding:10px;background-color: rgba(23, 24, 32, 0.75); width:300px;'>
+                        <a href="#" onclick="close_open_window()" style="color:white;float: right;">Open/Close Window</a>
+                        <table id="info_window"  style="margin: auto;">
+                            <tr>
+                                <td colspan="2">
+                                
+                                    <input type="text" id="amount" style="border: 0; color: #f6931f; font-weight: bold; text-align: center;" size="100"/>
+                                <!--
+                                    <input type="text" id="sentiment_neg" style="border: 0; color: #f6931f; font-weight: bold; text-align: center;" size="100"/>
+                                    <input type="text" id="sentiment_pos" style="border: 0; color: #f6931f; font-weight: bold; text-align: center;" size="100"/>
+                                -->
+                                    <div id="slider-range"></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="2">
+                                    <p style="text-decoration:underline;">INSTRUCTIONS</p>
+                                    <p style="font-size:8pt;text-align:left;">
+                                    This map plots every news story with a specific location in Whitechapel from 1885 to 1895. <br />
+                                    The number represents the number of stories at a given location. Red indicates negative stories, green indicates positive stories, and grey indicates neutral stories. <br />
+                                    To select a specific time period, move the sliders above. To filter stories by sentiment, use the menu to the right. <br />
+                                    When you hover over an individual story, it will give you information about the article along with the article keywords and an indication if that story includes details about crime, sex, or poverty.</p>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+                <!-- END MAP STUFF -->          
+            </section>
+
+        </div>
+
+        <!-- FOOTER -->
+        <script src="assets/js/footer.js"></script>
+        <!-- END FOOTER -->     
+
+        <script>
+            // Set up the time for the SODALayer 
+             Date.prototype.format = function (mask, utc) {
+                return dateFormat(this, mask, utc);
+            };
+
+            // Get the points JSON file and put it in the holder for when points are filtered based on time or attributes
+            pointsFilter = points;
+        </script>
+<!--         <script src="assets/js/HeatMap_object.js" type="text/javascript"></script>
+ -->
+        <script src="assets/js/mapfunctions.js" type="text/javascript"></script>
+        <script>
+            // Function to open and close the "show points" window.
+            function close_open_window(){
+                if($(info_window).is(":visible")){
+                    $(info_window).hide();
+                }else{
+                    $(info_window).show();
+                }
+            }
+
+        </script>
+    </body>
+</html>
+
+
+

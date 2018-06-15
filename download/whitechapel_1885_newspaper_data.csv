@@ -1,0 +1,712 @@
+Date (yr-month-day),Newspaper title,Article Title,page(s),Location,Overall Portrayal,Prostitution/Sex,Crime,Poverty,Keywords
+1885-01-17,The Spectator,From Oxford to Whitechapel,12-Nov,"Toynbee Hall, Whitechapel",positive,,,,"education, improvement"
+1885-02-07,The Spectator,News of the Week-Prince Edward,3,"Whittington Boy's Club, Leman Street, Whitechapel",positive,,,,"boys, morality, royal visit"
+1885-08-01,The Spectator,Nazing,13-14,Whitechapel Market,negative,,,,"cruelty to anmials, market"
+1885-01-17,Illustrated London News,The London Society for the Extension of University Teaching...,67,Toynbee Hall,neutral,,,,"education, lectures"
+1885-01-24,Illustrated London News,Our Note Book-One feels inclined...,74,Leman Street,negative,,,,civic pride
+1885-01-31,Illustrated London News,The Court,109,"Whittington Club and Chambers, 86 Leman Street, Whitechapel",neutral,,,,"royal visit, boys' club"
+1885-02-07,Illustrated London News,The Court,145,"Whittington Club and Chambers, 86 Leman Street, Whitechapel",positive,,,,"royal visit, boys' club"
+1885-02-07,Illustrated London News,The Dynamite Outrages,147,30 Great Prescot Street,negative,,yes,,"bombing, suspect"
+1885-05-02,Illustrated London News,The East London Industrial Exhibition...,456,"Drill Hall, Whitechapel Road",neutral,,,,show
+1885-06-06,Illustrated London News,Benevolent Objects,581,"Working Lads' Institute, Whitechapel",positive,,,,"improvement, boys' club"
+1885-08-01,Illustrated London News,The Lord Mayor distributed...,110,"Whitechapel Foundation School, Leman Street, Whitechapel",positive,,,,awards
+1885-09-12,Illustrated London News,The Princess of Wales has...,264,"Working Lads' Institute, Whitechapel Road",positive,,,,"royal visit, boys' club"
+1885-11-07,Illustrated London News,The architect of the...,469,"Working Lads' Institute, Whitechapel Road",neutral,,,,"architect, Working Lads' Institute"
+1885-11-07,Illustrated London News,The Court,476,"Working Lads' Institute, Whitechapel Road",positive,,,,"royal visit, boys' club"
+1885-11-07,Illustrated London News,Royalty in Whitechapel,479,"Working Lads' Institute, Whitechapel Road",positive,,,,"royal visit, boys' club, improvement"
+1885-01-09,The Times,Discovery of Forged Bank-Notes,7,"Mansell-Street, Whitechapel",negative,,yes,,police incompetance. forgery
+1885-01-10,The Times,Destructive Fire,10,"174A, Brady-Street, Whitechapel Road",neutral,,,,"Fire, railway arches, Metropolitian Fire Brigade"
+1885-01-12,The Times,Funeral of the Bishop of London,10,"St.Mary's, Whitechapel",positive,,,,"Funeral, Death, Religion, Church history"
+1885-01-13,The Times,The Sugar Bounties-letters to the editor,12,"Trafalgar Hotel, Leman street, Whitechapel E.",negative,,,yes,"unemployment,labour, economy"
+1885-01-15,The Times,Police,04-Mar,"Great Prescott-Street, Whitechapel",negative,,yes,,"Fraud, false identities"
+1885-01-23,The Times,Police,3,"Coleman Street, Guildhall",negative,,yes,,"Fraud, forgery"
+1885-02-02,The Times,Prince Edward of Wales,4,"No.86, Leman-Street",positive,,,,"Royal visit, clubs, improvement"
+1885-02-04,The Times,Police,3,Whitechapel Union,negative,,yes,,Assault
+1885-02-03,The Times,The Dynamite Outrages,12,No.30 Great Prescot-street,negative,,yes,,"Explosion, Tower of London, Dynamite"
+1885-02-05,The Times,Police,3,"Green-Street, Whitechapel.",negative,,yes,,"Perjury, Court"
+1885-02-10,The Times,The Dynamite Outrages,12,No.5 Mitre-Square,negative,,yes,,"Explosion, court case"
+1885-02-20,The Times,Supreme Court of Judicature-Court of Appeal,3,Nos. 108 and 109 Whitechapel-Road,neutral,,,,"court case, property boundaries, railways"
+1885-02-20,The Times,Open Spaces in London,10,St-Mary's Whitechapel,neutral,,,,"Disused burial grounds, public spaces"
+1885-02-23,The Times,Open Spaces in Parliament,4,Hooper's Square,neutral,,,,"Open spaces, Corporations, taking the commons"
+1885-03-03,The Times,Fatal Chase of a Burglar,11,Royal Mint-Street,negative,,yes,,"Breaking and entering, police fatality"
+1885-03-07,The Times,Reported Design to Blow up a Police-Station,9,Commercial-Road Police Station,negative,,yes,,"Death threats, mysterious package"
+1885-03-07,The Times,Fires,10,"King's Arms-court, Whitechapel Road;",negative,,,,Fire
+1885-03-09,The Times,Mr. Goschen on the Extension of University Teaching,8,"Toynbee-hall, Commercial Street",positive,,,,"improvement, education, universities"
+1885-03-10,The Times,The Middlesex Sessions,4,"High-Street, Whitechapel",positive,,yes,,Robbery
+1885-03-23,The Times,Labour Representation,9,Leman-Street,positive,,,,"Politics, Working class, Conservative Party"
+1885-03-23,The Times,Fires,9,Whitechapel-road,neutral,,,,Fires
+1885-03-25,The Times,Police,4,209 Whitechapel Road,negative,,yes,,"Breaking and entering, assaulting an officer"
+1885-03-31,The Times,Police,13,"35 Jewry-street, Aldgate",negative,,yes,,"Robbery, selling proceeds of crime"
+1885-04-01,The Times,Police,13,209 Whitechapel Road,negative,,yes,,"Breaking and entering, assaulting an officer"
+1885-04-08,The Times,Police,3,"Commercial-road, Buckle St",negative,,yes,yes,"Fraud, Matches"
+1885-04-16,The Times,The Murder in the East-End,7,247 Whitechapel Road,negative,,yes,,"Murder, Domestic Violence, Marriage"
+1885-04-18,The Times,Police,5,Worship-street,negative,,yes,,"Robbery, roughs"
+1885-04-20,The Times,The Co-Operative Movement,9,Hooper-Square,positive,,,,"Guild of Co-operators. Lord Ripon, economy"
+1885-04-22,The Times,Police,4,21 Back Church-lane,negative,,yes,,unlicensed sale of alcohol
+1885-05-06,The Times,The Princess Louise in East London,4,Drill Hall,positive,,,yes,"Royal visit, public spaces, improvement"
+1885-05-16,The Times,Metropolitan Board of Works,7,Goulston-Street,neutral,,,,"improvement, Metropolitan Board of Works"
+1885-05-27,The Times,Police,3,Whitechapel-Road,negative,,yes,,"Murder, Court Trial"
+1885-06-05,The Times,East London Exhibition,10,"Drill Hall, Whitechapel",positive,,,yes,"Industrial exhibition,Lord Ripon"
+1885-06-11,The Times,Fatal Fires,7,"105 Oxford-street, Whitechapel",neutral,,,,"Fire, death"
+1885-07-03,The Times,Revenue Returns-Letters to the editor,12,"Half-moon passage, Whitechapel",neutral,,,,"Tobacco sales, tobacco duties"
+1885-07-04,The Times,Metropolitan Board of Works,10,Bell-lane,negative,,,yes,"Metropolitan Board of Works, crowded dwellings,sanitation"
+1885-07-09,The Times,Mr. John Morley in Whitechapel,9,"St. Mary's Schools, Whitechapel",neutral,,,yes,"speeches, politics, religion"
+1885-07-13,The Times,Hospital Saturday Fund,12,"London Hospital, Whitechapel-Road",positive,,,,"Donations, hospital, healthcare"
+1885-07-17,The Times,Police,3,"42 Dock-Street, Whitechapel",negative,,yes,,Robbery
+1885-07-17,The Times,A Holiday in the Country,3,"St. Mark's Vicarage, Whitechapel",neutral,,,yes,"Sick children, country excursion"
+1885-07-17,The Times,The London School Board,11,Old Castle-Street,neutral,,,,"Playgrounds, Religion, Sunday observance"
+1885-07-21,The Times,Open Spaces in London-Letters to the Editor,10,Whitechapel-Road,neutral,,,yes,"Open spaces, Metropolitan Public Gardens Association, improvement"
+1885-07-24,The Times,Police,13,  11 Church-Lane; 16 Church-street. Spitalfields; 36 Myrtle-street,neutral,,yes,,"theft, selling of stolen goods"
+1885-07-28,The Times,Whitechapel Foundation School,4,Leman-street,positive,,,,"Education, prizes, religion"
+1885-07-31,The Times,Police,3,11 Church-Lane,negative,,yes,,"theft, selling of stolen goods"
+1885-07-31,The Times,Children's Holiday Fund,14,St. Jude's Vicarage,positive,,,yes,"Sick children, country excursion"
+1885-08-10,The Times,Police,10,"Blackhorse-yard, Whitechapel",negative,,yes,,"Animal cruelty, omnibus"
+1885-08-14,The Times,Middlesex Sessions,10,Church-lane,negative,,yes,,"theft, selling of stolen goods"
+1885-08-19,The Times,Inquests,6,"Pavillion Theatre, Whitechapel",negative,,,,"Actors, Drugs, death"
+1885-08-21,The Times,Inquests,10,5 Whitechapel road,neutral,,,yes,"Inquest, death"
+1885-08-26,The Times,Police,3,6 Brick Lane,negative,,yes,,Theft
+1885-08-27,The Times,Police,10,"Jewish Girls' School, Old Castle-Street",negative,,yes,,Girls' school
+1885-09-05,The Times,East-end Institute for Working Lads,8,"London Hospital, Whitechapel Road",positive,,,,"Institute for Working Lads, royal visit"
+1885-09-08,The Times,Fatal Accident,8,261 Whitechapel-Road,positive,,,,"accident, drowning, rescue"
+1885-09-08,The Times,Police,8,34-Leman Street,negative,,yes,,"Forgery, Russian roubles"
+1885-09-11,The Times,Police,10,34-Leman Street,negative,,yes,,"Forgery, Russian roubles"
+1885-09-18,The Times,Police,3,34-Leman Street,negative,,yes,,"Forgery, Russian roubles"
+1885-10-05,The Times,Police,3,Commercial Road,negative,yes,yes,,"Assault, prostitute"
+1885-10-05,The Times,Lord Ripon at Toynbee-Hall,7,"Toynbee-hall, Commercial-road",positive,,,,"improvement, education, universities"
+1885-10-10,The Times,Police,3,Leman Street Police Station,negative,,yes,,Robbery
+1885-10-15,The Times,Disestablishment- Letters to the editor,13,St. Jude's Vicarage,neutral,,,,"Patronage, Church, elections"
+1885-10-19,The Times,Police,3,22 Backchurch-lane,negative,yes,yes,,"sexual assault, roughs"
+1885-10-20,The Times,Police,3,"Rumford-Street, Whitechapel",negative,,yes,,"assault, costermonger"
+1885-10-28,The Times,Police,3,Whitechapel-road and Baker's row,negative,,yes,,robbery
+1885-10-30,The Times,Police,14,"Brunswick Buildings, Goulston Street, Whitechapel",negative,,yes,,"suspected robbery, diamonds"
+1885-11-02,The Times,Royal Visit to Whitechapel,7,Working Lads' Institute,positive,,,,"Royal visit, improvement"
+1885-11-06,The Times,Police,14,Worship Street; Church-lane; Whitechapel Road,negative,,yes,,assault
+1885-11-07,The Times,Police,4,10 Rix-court and backchurch lane,negative,yes,,,sexual assault
+1885-11-14,The Times,Middlesex Sessions,4,"Church-lane, Whitechapel",negative,yes,yes,,sexual assault
+1885-11-17,The Times,Police,4,Worship Street; Whitechapel road,negative,,yes,,theft
+1885-11-19,The Times,The New Working Lads' Institute Whitechapel-Letters to the Editor,14,Working Lads' Institute,positive,,,yes,"Improvement, donations"
+1885-11-19,The Times,Police,14,"Henry Clayton and Sons Drapers, Whitechapel-Road",negative,,yes,,false cheques
+1885-11-25,The Times,Police,16,"Old Montague Street, Whitechapel",negative,,,,"Factory Act, Inspection"
+1885-11-27,The Times,Police,14,London Hospital,negative,,yes,,"elections, voter fraud"
+1885-12-03,The Times,How the Irish Voted,7,"Hibernian Club @ Thomas Street, Whitechapel",neutral,,,,"Irish, elections, Hibernian Club"
+1885-12-14,The Times,Police,4,"Fieldgate-street, Whitechapel",negative,,yes,,Robbery
+1885-12-16,The Times,Police,4,Backchurch-lane,negative,,yes,,"""sharing out"" club, theft, beerhouse keeper"
+1885-12-21,The Times,Police,4,75 Backchurch-lane,negative,,yes,yes,"Child labour, poor children,"
+1885-12-24,The Times,Christmas Appeals-New Working Lads' Institute,13,New Working Lads' Institute,neutral,,,,"Donations, New Working Lads' Institute"
+1885-12-30,The Times,Fires,5,264 Whitechapel-Road,neutral,,,,Fire
+1885-12-30,The Times,Fire in Whitechapel,5,"Rupert street, Alse-Street",negative,,,,"Serious Fire, Metropolitan Fire Brigade, Co-Operative Society"
+1885-01-01,Morning Post,The Capture of an Armed Burglar,6,"No. 52, Charlotte Street",negative,,yes,,Burglary
+1885-01-01,Morning Post,Inquests,6,19 Brick Lane,negative,,,yes,"death, illness"
+1885-01-01,The Fermanagh Mail and Enniskillen Chronicle,Two Children Burned to Death,10,"Old Montagu Street, Whitechapel",negative,,,,"death, fire"
+1885-01-01,London Evening Standard,Police Intelligence,2,Worship Street,negative,,yes,,attempted suicide
+1885-01-01,London Evening Standard,Inquests,6,19 Brick Lane,negative,,,yes,"death, illness"
+1885-01-02,Morning Post,Police Intelligence,6,"62 Backchurch-lane, Whitechapel",negative,,yes,,"assault, stabbing"
+1885-01-02,Morning Post,Police Intelligence,6,  Whitechapel Road,negative,,yes,,theft
+1885-01-02,Chelmsford Chronicle,District News- Lambourne,3,Whitechapel Market,negative,,yes,,"theft, horse"
+1885-01-03,The Irishman,English Radicals and Irish Nationalists-Letters to the Editor,12,"4 Thomas-street, Whitechapel E.",negative,,,,"politics, nationalism"
+1885-01-03,Essex Newsman,County News- Horse Robbery,2,Whitechapel Market,negative,,yes,,"theft, horse"
+1885-01-03,Flag of Ireland,English Radicals and Irish Nationalists-Letters to the Editor,2,"4 Thomas-street, Whitechapel E.",negative,,,,"politics, nationalism"
+1885-01-04,Lloyd's Weekly Newspaper,Yesterday's Summary,12,"Commercial Road, Whitechapel",negative,,,,"fire,death"
+1885-01-05,Pall Mall Gazette,The Industrial Depression in London,7,"St. Jude's, Whitechapel",neutral,,,yes,"unemployment, Rev. Barnett"
+1885-01-05,London Evening Standard,The Industrial Depression in London,3,"St. Jude's, Whitechapel",neutral,,,yes,"unemployment, Rev. Barnett"
+1885-01-05,St. James's Gazette,The Industrial Depression in London,11,"St. Jude's, Whitechapel",neutral,,,yes,"unemployment, Rev. Barnett"
+1885-01-06,London Evening Standard,Metropolitan Distress- Letters to the Editor,3,"St. Jude's Vicarage, Commercial Street, Whitechapel East",negative,,,,"unemployment, Rev. Barnett"
+1885-01-07,Pall Mall Gazette,Occasional Notes,3,Toynbee Hall,positive,,,,education
+1885-01-09,Shields Daily Gazette,Forged Bank of England Notes,3,"Mansell Street, Whitechapel",negative,,yes,,forgery
+1885-01-09,The Gloucestershire Echo,Notes and Comments,2,"Mansell Street, Whitechapel",negative,,yes,,forgery
+1885-01-09,Edinburgh Evening Post,Extraordinary Discovery of Forged Banknotes,2,"Mansell Street, Whitechapel",negative,,yes,,forgery
+1885-01-09,London Evening Standard,Strange Discovery of Forged Banknotes,3,"Mansell Street, Whitechapel",negative,,yes,,forgery
+1885-01-09,Pall Mall Gazette,Strange Discovery of Forged Banknotes,10,"Mansell Street, Whitechapel",negative,,yes,,forgery
+1885-01-09,St. James's Gazette,Strange Discovery of Forged Banknotes,12,"Mansell Street, Whitechapel",negative,,yes,,forgery
+1885-01-09,Cornubian and Redruth Times,Want of Work in London,6,"St. Jude's, Whitechapel",neutral,,,yes,"unemployment, Rev. Barnett"
+1885-01-10,Morning Post,Great Fire in the East End,5,"174a Brady Street, Whitechapel",negative,,,,fire
+1885-01-10,London Evening Standard,Great Fire at the East End,3,"174a Brady Street, Whitechapel",negative,,,,fire
+1885-01-10,Huddersfield Chronicle,Extraordinary Discovery of Forged Banknotes,5,"Leadenhall Market; Mansell Street, Whitechapel",negative,,yes,,forgery
+1885-01-10,Buckingham Advertiser,The Industrial Depression in London,2,"Stanforth House, Upper Clapton; St. Jude's, Whitechapel",negative,,,yes,"unemployment, Rev. Barnett"
+1885-01-10,Shoreditch Observer,As our Junior Member...,2,"Toynbee Hall, Whitechapel",positive,,,,"university, education"
+1885-01-12,Pall Mall Gazette,"A new ""Oxford Movement""-Professor Seeley on ""Toynbee Hall""",02-Jan,"Toynbee Hall, Whitechapel",positive,,,,"university, education"
+1885-01-13,Lincolnshire Chronicle,A fire attended by...,3,"Brady Street, Whitechapel",negative,,,,fire
+1885-01-13,Pall Mall Gazette,"A New ""Oxford Movement""",2,"Toynbee Hall, Whitechapel",positive,,,,"education, university, religion"
+1885-01-13,St. James's Gazette,The Salvation Army,11,Exeter hall; Whitechapel,neutral,yes,,yes,"charity, improvement"
+1885-01-14,Morning Post,Open Spaces for the People,2,"St. Mary's, Whitechapel",neutral,,,,open spaces
+1885-01-14,Yorkshire Gazette,The Salvation Army,3,Exter hall; Whitechapel,neutral,yes,,yes,"charity, improvement"
+1885-01-14,St. James's Gazette,An Application of...,5,Worship Street Police Court,neutral,,,,"Elephant man, lawsuit"
+1885-01-15,Morning Post,Police Intelligence,7,Thames Police Court,negative,,yes,,fraud
+1885-01-15,Bath Chronicle and Weekly Gazette,The Bishop of Bedford on Novel Reading,6,"Toynbee Hall, Whitechapel",positive,,,,"university, education, literature"
+1885-01-15,Banbury Advertiser,The Bishop of Bedford on Novel Reading,6,"Toynbee Hall, Whitechapel",positive,,,,"university, education, literature"
+1885-01-16,Yorkshire Gazette,A Refugee from Hayti,6,"66 Leman Street, Whitechapel",negative,,yes,,fraud
+1885-01-16,Yorkshire Gazette,Police Intelligence,6,"Cadell Street, Whitechapel",negative,,,,attempted suicide
+1885-01-16,Cornubian and Redruth Times,Strange Discovery of Forged Banknotes,4,"Leadenhall Market; Mansell Street, Whitechapel",negative,,yes,,forgery
+1885-01-16,Pall Mall Gazette,Fires in London,9,115 Old Montague Street,negative,,,,Fire
+1885-01-16,Manchester Courier and Lancashire General Advertiser,Oxford Work in the East End of London,6,"Toynbee Hall, Whitechapel",positive,,,yes,"education, improvement"
+1885-01-16,Chelmsford Chronicle,Destruction of Great Eastern Railway Buildings by Fire,5,"Brady Street, Whitechapel",negative,,,,fire
+1885-01-16,St. James's Gazette,Children burned in fires,8,"115 Old Montague Street, Whitechapel; London Hospital",negative,,,,Fire
+1885-01-17,Whitby Gazette,Strange Discovery of Forged Banknotes,3,"Leadenhall Market; Mansell Street, Whitechapel",negative,,yes,,forgery
+1885-01-17,Yorkshire Gazette,General News,9,"Cadell Street, Whitechapel",negative,,,,attempted suicide
+1885-01-17,Cheltenham Chronicle,Strange Discovery of Forged Banknotes,4,"Leadenhall Market; Mansell Street, Whitechapel",negative,,yes,,forgery
+1885-01-18,Lloyd's Weekly Newspaper,"Fires, Yesterday",1,58 Whitechapel Road,neutral,,,,Fires
+1885-01-19,Morning Post,Central Criminal Court,6,"Whitechapel Branch, London and Westminster Bank",negative,,yes,,forgery
+1885-01-22,London Evening Standard,Police Intelligence,6,"  Fieldgate Street, Whitechapel",negative,,yes,,fraud
+1885-01-23,London Daily News,An Indiscret Arrest,2,Whitechapel Road,negative,,yes,,forgery
+1885-01-23,Pall Mall Gazette,Prince of Wales...,9,"Whittington Club and Chambers, 86 Leman street, Whitechapel",positive,,,,royal visit
+1885-01-24,Bristol Mercury,Prince Edward of Wales...,5,"Whittington Club and Chambers, 86 Leman street, Whitechapel",positive,,,,royal visit
+1885-01-24,Bury Free Press,Poisoned by Rum,2,Metropolitan Free Hospital,negative,,,,"inquest, drunkeness"
+1885-01-24,St. James's Gazette,We understand that...,9,"86 Leman street, Whitechapel",positive,,,,royal visit
+1885-01-25,Lloyd's Weekly Newspaper,Miscellaneous Summary,2,"Wentworth Street, Whitechapel; London Hospital",neutral,,,,accident
+1885-01-26,Freeman's Journal,The Explosion at the Tower of London,6,"Leman Street Police Station, Whitechapel",negative,,yes,,bombing
+1885-01-26,Derby Daily Telegraph,The Tower of London,4,"Leman Street Police Station, Whitechapel",negative,,yes,,bombing
+1885-01-26,Gloucester Citizen,The Terrible Dynamite Explosions,4,Bow Street Police Court; Whitechapel,negative,,yes,,"bombing, trial"
+1885-01-26,Portsmouth Evening News,Prisoner before the magistrate,3,32 Scarboro Street,negative,,yes,,"bombing, trial"
+1885-01-26,Nottingham Evening Post,Magisterial Proceedings To-day,3,"30 Great Prescot street, Whitechapel",negative,,yes,,"bombing, trial"
+1885-01-26,Aberdeen Evening Express,Suspected Persons,2,"Leman Street Police Station, Whitechapel",negative,,yes,,"bombing, trial"
+1885-01-27,Morning Post,Examination of a susepct at Bow Street,5,30 Great Preston Street,negative,,yes,,"bombing, trial"
+1885-01-27,Leeds Mercury,The Prisoner before the Magistrates,8,"32 Scarborough Street, Whitechapel",negative,,yes,,"bombing, trial"
+1885-01-27,Manchester Courier and Lancashire General Advertiser,The London Explosions,8,30 Great Preston Street,negative,,yes,,"bombing, trial"
+1885-01-27,Aberdeen Journal,The Arrest of a supposed Irish-American,6,"32 Scarborough Street, Whitechapel",negative,,yes,,"bombing, trial"
+1885-01-27,Western Times,The Dynamite Explosions,8,"Bow Street Police Court; 30 Great Preston Street, Whitechapel; 32 Scarborough Street, Whitechapel",negative,,yes,,"bombing, trial"
+1885-01-27,London Evening Standard,Captain Shaw's annual...,5,Clare Market,negative,,,,"fires, deaths"
+1885-01-27,St. James's Gazette,The Dynamite Explosions,13,30 Great Preston Street,negative,,yes,,"bombing, trial"
+1885-01-27,Aberdeen Free Press,The Man Arrested at the Tower,5,"32 Scarborough Street, Whitechapel",negative,,yes,,"bombing, trial"
+1885-01-28,Edinburgh Evening Post,The Prisoner Cunningham-His Antecedents,4,Bow Stree Police Court; Whitechapel,negative,,yes,,"bombing, trial"
+1885-01-28,Portsmouth Evening News,Movements of the Prisoner- A Mysterious Brown Box,2,30 Great Prescot Street,negative,,yes,,"bombing, witnesses"
+1885-01-28,Pall Mall Gazette,The Dynamite Explosions,7,30 Great Prescot Street,negative,,yes,,"bombing, witnesses"
+1885-01-28,St. James's Gazette,The Prisoner Cunningham,11,30 Great Prescot Street,negative,,yes,,"bombing, witnesses"
+1885-01-29,Leeds Mercury,The Prisoner Cunningham-His Lodgings in London-A mysterious brown box.,3,"32 Scarborough Street, Whitechapel",negative,,yes,,"bombing, witnesses"
+1885-01-29,Banbury Advertiser,The Prisoner before the Magistrates,2,Scarborough street,negative,,yes,,bombing
+1885-01-29,Bath Chronicle and Weekly Gazette,The Dynamite Outrages in London,2,30 Great Preston Street,negative,,yes,,"bombing, witnesses"
+1885-01-31,London Daily News,To-day,6,"Drill Hall, Whitechapel",neutral,,,,prizes
+1885-01-31,Bury Free Press,Prisoner before the magistrate,6,Scarborough street,negative,,yes,,bombing
+1885-01-31,Morning Post,Police Intelligence,3,"George Yard, Whitechapel",negative,,yes,,fraud
+1885-01-31,Worcestershire Chronicle,Social Scraps,3,86 Leman street,positive,,,,royal visit
+1885-01-31,Worcestershire Chronicle,Explosions at the Houses of Parliament and the Tower of London,3,30 Great Prescot Street,negative,,yes,,bombing
+1885-01-31,Manchester Courier and Lancashire General Advertiser,The House of Commons after the Outrage,16,30 Great Prescot Street,negative,,yes,,bombing
+1885-01-31,London Evening Standard,Whittington Club,3,"86 Leman street, Whitechapel",positive,,,yes,"royal visit, boys' club"
+1885-01-31,Aberdeen Journal,Prisoner before the magistrate,6,"Leman Street Police Station, Whitechapel",negative,,yes,,bombing
+1885-01-31,Beverley and East Riding Recorder,The Suspected Fenian before the Magistrate,2,"Great Alie street, Whitechapel",negative,,yes,,"bombing, testimony"
+1885-01-31,Buckingham Advertiser,Prisoner Before the magistrate,6,"Great Alie street, Whitechapel",negative,,yes,,"bombing, testimony"
+1885-01-31,Cardiff Times,A Suspected Dynamiter Before the Magistrates,2,"Great Alie street, Whitechapel",negative,,yes,,"bombing, testimony"
+1885-01-31,Chepstow Weekly Advertiser,Prisoner Before the magistrate,2,"Great Alie street, Whitechapel",negative,,yes,,"bombing, testimony"
+1885-02-01,Lloyd's Weekly Newspaper,The Prisoner at Bow-Street,1,"Scarborough street, Whitechapel",negative,,yes,,"bombing, witnesses"
+1885-02-01,Lloyd's Weekly Newspaper,Saturday's Law and Police,3,"Baker's Row, Whitechapel",negative,,yes,,"theft, Salvation Army"
+1885-02-01,Lloyd's Weekly Newspaper,Miscellaneous Summary,2,"Wood's Buildings, Whitechapel",neutral,,,,injury
+1885-02-01,Reynolds's Newspaper,The Dynamite Conspiracy-Latest Particulars,8,Scarborough street,negative,,yes,,"bombing, box"
+1885-02-01,Reynolds's Newspaper,Arrest of a Suspected Dynamiter,4,Scarborough street,negative,,yes,,bombing
+1885-02-02,Morning Post,Mr. Childers and the Volunteers,3,"Drill Hall, Whitechapel",positive,,,,awards
+1885-02-02,Morning Post,The entry of Prince Albert Victor...,4,"86 Leman street, Whitechapel",positive,,,,royal visit
+1885-02-02,Leeds Mercury,Prince Albert Victor in Whitechapel,5,"86 Leman street, Whitechapel",positive,,,,royal visit
+1885-02-02,Dundeed Advertiser,Opening of a club by Prince Albert Victor,6,"86 Leman street, Whitechapel",positive,,,,royal visit
+1885-02-02,Edinburgh Evening Post,Prince Albert Victor,4,"86 Leman street, Whitechapel",positive,,,,royal visit
+1885-02-02,Edinburgh Evening Post,"Mr. Childers, M.P. on the Volunteer Force",4,"Drill Hall, Whitechapel",positive,,,,awards
+1885-02-02,Yorkshire Gazette,Prince Albert Victor in Whitechapel,6,"86 Leman street, Whitechapel",positive,,,,royal visit
+1885-02-02,Gloucester Citizen,General Intelligence,3,"86 Leman street, Whitechapel",positive,,,,royal visit
+1885-02-02,Birmingham Daily Post,Prince Albert Victor in Whitechapel,5,"86 Leman street, Whitechapel",positive,,,,royal visit
+1885-02-02,Portsmouth Evening News,The Dynamite Outrage,3,"32 Scarborough Street, Whitechapel",negative,,yes,,"bombing, witnesses"
+1885-02-02,Pall Mall Gazette,The Dynamite Outrage,8,"30 Prescot street, Whitechapel",negative,,yes,,"bombing, box"
+1885-02-02,London Evening Standard,Prince Albert Victor and the Shoeblacks,2,"86 Leman street, Whitechapel",positive,,,yes,royal visit
+1885-02-02,St. James's Gazette,Prince Albert Victor in the East End,11,"86 Leman street, Whitechapel",positive,,,,royal visit
+1885-02-02,St. James's Gazette,Mr. Childers on the Volunteers,13,"Drill Hall, Whitechapel",positive,,,,"awards, military"
+1885-02-02,St. James's Gazette,The Dynamite Outrages,8,"30 Great Prescott Street, Whitechapel",negative,,yes,,"bombing, box"
+1885-02-02,Aberdeen Evening Express,The Dynamite Plots,3,"32 Scarborough Street, Whitechapel",negative,,yes,,"bombing, box, witnesses"
+1885-02-02,The Pall Mall Gazette,"""Prince Edward in Whitechapel""",4,"86 Leman street, Whitechapel",neutral,,,yes,"Monarchy, class, political unity"
+1885-02-03,Shields Daily Gazette,Our London Letter,2,"86 Leman street, Whitechapel",neutral,,,,royal visit
+1885-02-03,Shields Daily Gazette,Cunningham at Bow-Street,3,"32 Scarboro street, Whitechapel",negative,,yes,,"bombing, box"
+1885-02-03,London Evening Standard,The Dynamite Outrages,2,"32 Scarboro street, Whitechapel",negative,,yes,,"bombing, box"
+1885-02-03,Pall Mall Gazette,The Dynamite Outrages,7,"Great Prescott street, Whitechapel",negative,,yes,,"bombing, box"
+1885-02-03,St. James's Gazette,The Dynamite Outrages,13,30 Great Prescott Street,negative,,yes,,"bombing, box, witnesses"
+1885-02-03,Bury and Norwich Post,The Dynamite Outrages,8,30 Great Prescot street,negative,,yes,,"bombing, box, witnesses"
+1885-02-03,Aberdeen Free Press,The London Explosions,5,"32 Scarborough street, Whitechapel",negative,,yes,,"bombing, box, witnesses"
+1885-02-03,Belfast News-letter,The Dynamitards,5,"30 Great Prescott street, Whitechapel",negative,,yes,,"bombing, box"
+1885-02-04,Edinburgh Evening News,The Dynamitards in London,2,"Leman Street Police Station, Whitechapel",negative,,yes,,"bombing, arrest"
+1885-02-04,Aberdeen Journal,Another Arrest,4,"Leman Street Police Station, Whitechapel",negative,,yes,,"bombing, arrest"
+1885-02-05,London Evening Standard,Police Intelligence,5,"Green Street, Whitechapel",negative,,yes,,"perjury, assault"
+1885-02-05,Banbury Advertiser,Prince Albert Victor and the Shoeblacks,3,"86 Leman Street, Whitechapel",positive,,,,royal visit
+1885-02-05,Banbury Advertiser,The Dynamite Outrages,5,Bow street Police Court; Whitechapel,negative,,yes,,"bombing, arrest"
+1885-02-05,Bath Chronicle and Weekly Gazette,The Dynamite Outrages,5,"Great Prescott street, Whitechapel",negative,,yes,,"bombing, arrest"
+1885-02-05,Bath Chronicle and Weekly Gazette,Prince Albert Victor in the East of London,6,"86 Leman Street, Whitechapel",positive,,,,royal visit
+1885-02-06,Glasgow Herald,The Dynamite Outrages,10,"30 Great Prescott Street, Whitechapel",negative,,yes,,"bombing, arrest, box"
+1885-02-06,Freeman's Journal,The Outrages in London,5,"30 Great Prescott Street, Whitechapel",negative,,yes,,"bombing, arrest, box"
+1885-02-06,Birmingham Daily Post,News of the Day,4,"30 Prescot street, Whitechapel",negative,,yes,,"bombing, arrest, box"
+1885-02-06,Bristol Mercury,The Dynamite Conspiracy,5,"30 Prescot street, Whitechapel",negative,,yes,,"bombing, arrest, box"
+1885-02-07,Aberdeen Journal,The other arrests,3,Bow Street Police Court; Whitechapel,negative,,yes,,"bombing, arrest, box"
+1885-02-07,Aberdeen Journal,Cunningham at the Police Court,3,"32 Scarborough street, Whitechapel",negative,,yes,,"bombing, trial"
+1885-02-07,Irishman,The London Explosions,16,Great Prescott street,negative,,yes,,"bombing, arrest"
+1885-02-07,Lloyd's Weekly Newspaper,Unraveling the plots at home,7,30 Great Prescott Street,negative,,yes,,"bombing, arrest, box, witnesses"
+1885-02-07,Lloyd's Weekly Newspaper,Prince Albert Victor in Whitechapel,6,"86 Leman Street, Whitechapel",positive,,,yes,royal visit
+1885-02-07,Beverley and East Riding Recorder,The Dynamite Outrages in London,2,"30 Prescot street, Whitechapel",negative,,yes,,"bombing, arrest, box, witnesses"
+1885-02-07,Bucks Herald,Court and Fashionable News,3,"86 Leman Street, Whitechapel",positive,,,,royal visit
+1885-02-07,Bucks Herald,General News,7,"Great Prescot street, Whitechapel",negative,,yes,,"bombing, box"
+1885-02-07,Cardiff Times,Arrest of Another Dynamiter in London,2,Bow Street Police Court; Whitechapel,negative,,yes,,"bombing, arrest, box"
+1885-02-07,Chepstow Weekly Advertiser,Prince Albert Victor and the Shoeblacks,2,"86 Leman Street, Whitechapel",positive,,,,royal visit
+1885-02-08,Reynolds's Newspaper,Re-examination of the Suspected Dynamiter,3,"30 Great Prescott Street, Whitechapel",negative,,yes,,"bombing, arrest, box"
+1885-02-08,Reynolds's Newspaper,Arrest of another suspected Dynamiter,5,Bow Street Police Court,negative,,yes,,"bombing, arrest, box, witnesses"
+1885-02-09,Edinburgh Evening News,The Dynamite Outrages in London,3,"Great Prescott street, Whitechapel",negative,,yes,,"bombing, arrest, box, witnesses"
+1885-02-09,Nottingham Evening Post,The Dynamite Conspiracy,3,"Great Prescott street, Whitechapel",negative,,yes,,"bombing, arrest, box, witnesses"
+1885-02-10,Morning Post,The Dynamite Conspiracy,2,"30 Great Prescott street, Whitechapel",negative,,yes,,"bombing, witnesses"
+1885-02-10,Aberdeen Journal,The Dynamite Outrages,6,Bow Street Police Court; Whitechapel,negative,,yes,,"bombing, box, testimony"
+1885-02-11,London Daily News,This evening a meeting...,5,"St. Mary's Schoolroom, Whitechapel",neutral,,,,"politics, representation"
+1885-02-12,Banbury Advertiser,The Dynamite Outrages,7,"Great Prescott street, Whitechapel",negative,,yes,,"bombing, witnesses, box"
+1885-02-13,Newcastle Courant,Travel and Adventure,6,"Ratcliff Highway, Whitechapel",negative,,yes,yes,"travel, impressions"
+1885-02-13,Chelmsford Chronicle,A Wealthy Wanderer,5,"81 Wentworth Street, Whitechapel",neutral,,,,lost man
+1885-02-13,Birmingham Daily Post,London Gossip,7,"Toynbee Hall, Whitechapel",positive,,,,"education, improvement"
+1885-02-14,Aberdeen Journal,The Dynamite Outrages,3,Bow Street Police Court; Whitechapel,negative,,yes,,"bombing, testimony"
+1885-02-15,Lloyd's Weekly Newspaper,Wednesday (8),3,"3 Baker's Row, Whitechapel",neutral,,,,fire
+1885-02-15,Lloyd's Weekly Newspaper,Yesterday's Police,12,"Salvation Army Hall, Whitechapel; 91 Bishop's road, Victoria Park",negative,,yes,,"assault, Salvation Army"
+1885-02-20,Morning Post,Police Intelligence,6,"51 Mansell street, Whitechapel",negative,,yes,,theft
+1885-02-22,Reynolds's Newspaper,Summary of Latest Home News,8,"Baker's Row, Whitechapel",neutral,,,,"public house, injury, accident"
+1885-02-22,Lloyd's Weekly Newspaper,The Dynamite Outrages,4,17 William-lane,negative,,yes,,"bombing, witnesses"
+1885-02-28,Dublin Weekly Nation,"To the Readers of the ""Nation""",13,"9 Leman Streeet, Whitechapel",positive,,,,abstinence
+1885-02-28,The Graphic,A most interesting East London Industrial Exhibition,8,"Drill Hall, Whitechapel",positive,,,,"show, working class"
+1885-02-28,The Graphic,Old-Fashioned Theatrical Managers,28,"Garrick Theatre, Leman Street, Whitechapel",positive,,,,theatre
+1885-02-28,Oxford Journal,Dr. Barnardo's Work among the waifs and strays,6,"Dr. Barnardo's home, Whitechapel",positive,,,yes,"children, chairty"
+1885-02-28,The Era,"""Dora Ingram"" at the Pavillion",9,"The Pavillion, Whitechapel Road",positive,,,,"theatre, review"
+1885-03-01,Lloyd's Weekly Newspaper,Police Intelligence,4,"Milk street, Whitechapel",negative,,yes,,"breaking and entering, robbery"
+1885-03-01,Lloyd's Weekly Newspaper,Summary of Latest Home News,8,"Brick lane, Whitechapel",neutral,,,,accident
+1885-03-01,Reynolds's Newspaper,Fatal Accident to a constable,3,"Royal Mint Street, Whitechapel",neutral,,,,"accident, death"
+1885-03-02,Western Daily Press,District News- The Distress in East London,6,"St. Mary's, Whitechapel",positive,,,yes,"poverty, donations"
+1885-03-02,Gloucestershire Echo,Fatal Accident to a Constable,3,"Royal Mint Street, Whitechapel",neutral,,,,"accident, death"
+1885-03-02,Gloucester Citizen,Fatal Accident to a Constable,4,"Royal Mint Street, Whitechapel",neutral,,,,"accident, death"
+1885-03-02,Nottingham Evening Post,Desperate chase of a thief-A policeman killed,3,"Royal Mint Street, Whitechapel",neutral,,,,"accident, death"
+1885-03-02,St. James's Gazette,A Policeman killed while pursuing a burglar,8,"Royal Mint Street, Whitechapel",neutral,,,,"accident, death"
+1885-03-02,Pall Mall Gazette,Shocking Murder at the East-End,8,"Rutland Street, Whitechapel",negative,,yes,,murder
+1885-03-03,Morning Post,Alleged Shocking Murder at the East End,3,"Rutland Street, Whitechapel",negative,,yes,,murder
+1885-03-03,Edinburgh Evening News,Terrible Tragedy in London-Murder Through Jealousy,4,"No.25 Rutland Street, Whitechapel",negative,,yes,,murder
+1885-03-03,Liverpool Mercury,A Policeman Killed while pursuing a burglar,5,"Royal Mint Street, Whitechapel",neutral,,,,"accident, death"
+1885-03-03,Liverpool Mercury,Tragedy in London,5,"No.25 Rutland Street, Whitechapel",negative,,yes,,murder
+1885-03-03,Leeds Mercury,A Policeman Killed while pursuing a burglar,3,"Royal Mint Street, Whitechapel",neutral,,,,"accident, death"
+1885-03-03,London Evening Standard,Fatal Chase of a Burglar,3,"Royal Mint Street, Whitechapel",negative,,,,"accident, death"
+1885-03-03,Aberdeen Free Press,Policeman Killed at Whitechapel,6,"Royal Mint Street, Whitechapel",neutral,,,,"accident, death"
+1885-03-03,Cheltenham Chronicle,Police constable Barber...,5,"Royal Mint street, Whitechapel",neutral,,,,"accident, death"
+1885-03-04,Dundee Courier,Shocking Murder through Jealousy,4,"No.25 Rutland Street, Whitechapel",negative,,yes,,murder
+1885-03-05,London Daily News,The Fatal Accident to a Detective,3,"Goods-yard, Royal Mint Street",neutral,,,,"inquest, accident, witnesses"
+1885-03-05,London Evening Standard,Fires in London,3,"172, Oxford Street, Whitechapel",neutral,,,,fire
+1885-03-06,Shields Daily Gazette,The Dynamite Conspiracy,3,Commercial Road Police Station,negative,,yes,,"suspected bombing, death threats"
+1885-03-06,Nottingham Evening Post,The Dynamite Case: Threatening a Detective,3,Commercial Road Police Station,negative,,yes,,"suspected bombing, death threats"
+1885-03-06,Pall Mall Gazette,Reported Design to blow up a Police station,8,Commercial Road Police Station,negative,,yes,,"suspected bombing, death threats"
+1885-03-06,St. James's Gazette,Alleged Design to Blow up a Police Station,8,Commercial Road Police Station,negative,,yes,,"suspected bombing, death threats"
+1885-03-06,London Evening Standard,Election Intelligence,5,"St. Mary's Schoolroom, Whitechapel",neutral,,,,"elections, politics"
+1885-03-06,Lincolnshire Chronicle,General News,3,"Royal Mint Street buildings, Whitechapel",neutral,,yes,,"accident, death"
+1885-03-06,Newcastle Courant,Terrible Tragedy in London,3,"No.25 Rutland Street, Whitechapel",negative,,yes,,murder
+1885-03-07,Morning Post,Alleged Design to Blow up a Police Station,3,Commercial Road Police Station,negative,,yes,,suspected bombing
+1885-03-07,Flag of Ireland,London Hibernian Club,7,"4 Thomas street, Whitechapel",neutral,,,,politics
+1885-03-07,London Daily News,Destructive Fires,3,No 3. King's Arms Court (opposite of Whitechapel Church); Whitechapel Road,neutral,,,,fire
+1885-03-07,London Daily News,To-day,3,"Toynbee Hall, Whitechapel",positive,,,,"education, university"
+1885-03-07,Gloucester Citizen,Reported Design to blow up a Police station,3,Commercial Road Police Station,negative,,yes,,"suspected bombing, death threats"
+1885-03-08,Lloyd's Weekly Newspaper,Fires,3,"172 Oxford Street, Whitechapel",neutral,,,,fire
+1885-03-08,Lloyd's Weekly Newspaper,Funeral Yesterday,1,Leman street,neutral,,yes,,"funeral, death, accident"
+1885-03-08,Lloyd's Weekly Newspaper,Attempt to Blow up a Police Station,7,Commercial Road Police Station,negative,,yes,,"suspected bombing, death threats"
+1885-03-09,Morning Post,Mr. Goschen on University Teaching,3,"Toynbee Hall, Whitechapel",positive,,,,"education, lectures, improvement"
+1885-03-09,Edinburgh Evening News,Mr. Goschen and the Education of the Masses,4,"Toynbee Hall, Whitechapel",positive,,,,"education, lectures, improvement"
+1885-03-09,Pall Mall Gazette,Occasional Notes,3,"Toynbee Hall, Whitechapel",positive,,,,"education, lectures, improvement"
+1885-03-13,Birmingham Daily Post,London Gossip,7,"Toynbee Hall, Whitechapel",positive,,,yes,"education, university, class"
+1885-03-14,Illustrated Police News,Tragedy in the East End-Shocking Murder Through Jealousy,2,"No. 25 Rutland street, Whitechapel",negative,,yes,,murder
+1885-03-14,Illustrated Police News,Fatal Pursuit of a Burglar,2,"Royal Mint Street, Whitechapel",neutral,,yes,,"accident, death"
+1885-03-15,Lloyd's Weekly Newspaper,Middlesex Sessions,4,"High Street, Whitechapel",negative,,yes,,"theft, court"
+1885-03-15,Reynolds's Newspaper,Fires in London,8,"82 Rutland Street, Whitechapel",neutral,,,,fire
+1885-03-20,Morning Post,Fine Art in Whitechapel,3,"St. Jude's Schools, Commercial Street, Whitechapel",positive,,,,art show
+1885-03-20,Pall Mall Gazette,Fine Art in Whitechapel,10,"St. Jude's Schools, Commercial Street, Whitechapel",positive,,,,art show
+1885-03-20,London Evening Standard,The Fifth Free Loan Exhibition of Pictures...,7,"St. Jude's Schools, Commercial Street, Whitechapel",positive,,,,art show
+1885-03-20,Morning Post,Arrangements for this day,5,"Central Rooms, Whitechapel",neutral,,,,"meeting, sugar bounties"
+1885-03-21,Illustrated Police News,"On Saturday, at the...",2,Whitechapel station of the East London Railway,negative,,yes,,public drunkeness
+1885-03-21,Leicester Chronicle,Our Ladies' Column,9,"Toynbee Hall, Whitechapel",neutral,,,yes,"Improvement, education, class"
+1885-03-21,Shoreditch Observer,Religious Service at the Pavillion Theatre,4,"The Pavillion, Whitechapel Road",neutral,,,,Religion
+1885-03-21,Freeman's Journal,London Hibernian Club and Institute,4,"no. 4 Thomas Street, Whitechapel",neutral,,,,politics
+1885-03-22,Lloyd's Weekly Newspaper,Lords and Bishiops Bar the Way,6,"St. Jude's Schools, Commercial Street, Whitechapel",positive,,,yes,"art show, Sunday observance, religion"
+1885-03-22,Lloyd's Weekly Newspaper,Singular Death in a Workhouse,12,"Weaver's Arms, Baker-Row, Whitechapel",neutral,,,,"Inquest, death, accident"
+1885-03-23,Pall Mall Gazette,Fires in the Metropolis,8,120 Whitechapel Road,neutral,,,,Fire
+1885-03-24,Pall Mall Gazette,Great Robbery of Cigars,10,"Horse and Leaping Bar Tavern, Whitechapel",negative,,yes,,"Breaking and entering, robbery"
+1885-03-24,Morning Post,Capture of Alleged House-Breakers,3,"Horse and Leaping Bar Tavern, Whitechapel",negative,,yes,,"Breaking and entering, robbery"
+1885-03-24,Yorkshire Gazette,Labour Representation,6,"central Rooms Leman street, Whitechapel",neutral,,,,"politics, working class"
+1885-03-25,Morning Post,John Small was remanded...,4,"Earl of Aberdeen beerhouse, Whitechapel Road",negative,,yes,,"breaking and entering, assaulting an officer"
+1885-03-25,Yorkshire Gazette,Struggle with a burglar,5,"Earl of Aberdeen beerhouse, Whitechapel Road",negative,,yes,,"breaking and entering, assaulting an officer"
+1885-03-26,Morning Post,The Murder at the East End,6,Thames Police Court,negative,,yes,,murder
+1885-03-27,Bristol Mercury,The East-End of London-Letters to the Editor,7,"St. Jude's Schools, Commercial Street",negative,,,yes,"poverty, crowding"
+1885-03-28,Whitby Gazette,The Sunday Question,2,"St. Jude's School, Whitechapel",positive,,,,"art show, Sunday observance"
+1885-03-28,Bury Free Press,The Sunday Question,6,"St. Jude's School, Whitechapel",positive,,,,"art show, Sunday observance"
+1885-03-28,Yorkshire Gazette,Struggle with a burglar,5,"  Earl of Aberdeen beerhouse, Whitechapel Road",neutral,,yes,,"breaking and entering, assaulting an officer"
+1885-03-28,Swindon Advertiser,To Dwellers in the...,4,"St. Jude's School, Whitechapel",positive,,,,"art show, Sunday observance"
+1885-03-28,Buckingham Advertiser,The Sunday Question,6,Whitechapel Fine Art Exhibition,positive,,,,"art show, Sunday observance"
+1885-03-28,Cheltenham Chronicle,The Sunday Question,2,Whitechapel Fine Art Exhibition,positive,,,,"art show, Sunday observance"
+1885-03-29,Lloyd's Weekly Newspaper,Whitechapel Fine Art Exhibition,1,"St. Jude's Schoolrooms, Whitechapel",positive,,,,"art show, Sunday observance, religion"
+1885-03-29,Lloyd's Weekly Newspaper,Fires,3,120 Whitechapel Road,neutral,,,,fire
+1885-03-29,Reynolds's Newspaper,Whitechapel Fine Art Exhibition,1,"St. Jude's Schoolrooms, Whitechapel",positive,,,,art show
+1885-03-30,Pall Mall Gazette,The promoters of the...,3,"St. Jude's Schoolrooms, Whitechapel",positive,,,,art show
+1885-03-31,London Daily News,Exhibitions to Come,6,"Drill Hall, Whitechapel",positive,,,,"exhibition, working class, royal visit"
+1885-03-31,Yorkshire Gazette,Street-Gambling,5,"Middlesex-street, Whitechapel",negative,,yes,,gambling
+1885-03-31,London Evening Standard,Worship Street,6,"Middlesex-street, Whitechapel",negative,,yes,,gambling
+1885-03-31,St. James's Gazette,Street-gambling at the East End,13,"Middlesex-street, Whitechapel",negative,,yes,,gambling
+1885-04-01,Morning Post,A Desperate Burglar,3,"Earl of Aberdeen beerhouse, Whitechapel Road",negative,,yes,,"breaking and entering, assaulting an officer"
+1885-04-01,London Evening Standard,Thames,6,"Earl of Aberdeen beerhouse, Whitechapel Road",negative,,yes,,"breaking and entering, assaulting an officer"
+1885-04-01,Nottingham Evening Post,Metropolitan Notes,2,"St. Jude's Schoolrooms, Whitechapel",positive,,,,art show
+1885-04-01,Dundee Courier,A Begging Letter Organization,3,"St. George's Lodginghouse, Whitechapel",negative,,yes,,"begging, fraud"
+1885-04-02,Banbury Advertiser,Street Gambling in London,3,"Middlesex-street, Whitechapel",negative,,yes,,gambling
+1885-04-02,Aberdeen Journal,A Begging Letter Organization,6,"St. George's Lodginghouse, Whitechapel",negative,,yes,,"begging, fraud"
+1885-04-03,Morning Post,By command of the Queen...,5,"London Hospital, Whitechapel",positive,,,,Royal donation
+1885-04-04,Shoreditch Observer,Sunday Gambling at the East End,3,"Middlesex Street, Whitechapel",negative,,yes,,gambling
+1885-04-04,London Daily News,Good Friday in the Metropolis,6,"St. Jude's schools, Whitechapel",positive,,,,"art show, open spaces"
+1885-04-04,Illustrated Police News,Desperate Struggle,2,"Earl of Aberdeen beerhouse, 120 Whitechapel Road",negative,,yes,,"breaking and entering, assaulting an officer"
+1885-04-04,Illustrated Police News,Gambling in a Public Thoroughfares,4,"Middlesex-street, Whitechapel",negative,,yes,,gambling
+1885-04-05,Lloyd's Weekly Newspaper,Whitechapel Fine Art Exhibition,3,"St. Jude's Schoolrooms, Whitechapel",positive,,,,"art show, Rev. Barnett"
+1885-04-05,Lloyd's Weekly Newspaper,Mansion House,4,Pub on Anthony Street,negative,,yes,,"breaking and entering, robbery, sale of stolen goods"
+1885-04-05,Lloyd's Weekly Newspaper,Worship Street,4,"Worship Street Police Court; Middlesex-street, Whitechapel",negative,,yes,,gambling
+1885-04-05,Lloyd's Weekly Newspaper,Fires in the Metropolis,12,"18 Church lane, Whitechape",neutral,,,,fire
+1885-04-07,London Evening Standard,Police Intelligence,6,Worship Street Police Court,negative,,yes,,gambling
+1885-04-07,Pall Mall Gazette,Occasional Notes,3,"Toynbee Hall, Whitechapel",neutral,,,,"politics, lecture"
+1885-04-08,Aberdeen Free Press,Mr. Fawcett's First Candidature,3,"Toynbee Hall, Whitechapel",neutral,,,,"politics, lecture"
+1885-04-11,Chepstow Weekly Advertiser,Foreign Surgar Bounties,2,"Trafalgar Hotel, Leman street, Whitechapel",neutral,,,,politics
+1885-04-11,Dundee Evening Telegraph,Whitechapel Loan Exhibition,2,"St. Jude's Schoolrooms, Whitechapel",positive,,,,art show
+1885-04-11,Beverley and East Riding Recorder,"""A remarkable loan collection...""",3,"St. Jude's Schoolrooms, Whitechapel",positive,,,,art show
+1885-04-11,Buckingham Advertiser,Foreign Surgar Bounties,7,"Trafalgar Hotel, Leman street, Whitechapel",neutral,,,,"sugar bounties, politics"
+1885-04-13,Pall Mall Gazette,Occasional Notes,3,"St. Jude's Schoolrooms, Whitechapel",positive,,,,"art show, working class"
+1885-04-14,Pall Mall Gazette,Guild of Co-operators,10,"Hooper Square, Leman Street, Whitechapel",neutral,,,,meeting
+1885-04-15,Edinburgh Evening News,The Working Classes and Sunday Art Exhbitions,3,"St. Jude's Schoolrooms, Whitechapel",positive,,,,art show
+1885-04-15,London Evening Standard,The Murder at the East End,3,Whitechapel Road,negative,,yes,,"inquest, murder"
+1885-04-18,Freeman's Journal,A Novel Exhibition,12,"Drill Hall, Whitechapel",positive,,,,"improvement, industry, royal visit"
+1885-04-18,Yorkshire Gazette,General News,9,"London Hospital, Whitechapel",positive,,,,Royal visit
+1885-04-18,Morning Post,Imprudent Street Robbery,3,"High Street, Whitechapel",negative,,yes,,"robbery, ""roughs"""
+1885-04-18,Bury Free Press,On Wednesday the Princess...,3,"London Hospital, Whitechapel",positive,,,,royal visit
+1885-04-24,Chelmsford Chronicle,An Ongar Woman Robbed,8,"High Street, Whitechapel",negative,,yes,,robbery
+1885-04-24,Belfast News-letter,At about ten minutes...,4,"Admiralty offices, Whitechapel",negative,,yes,,bombing
+1885-04-24,Morning Post,The Primrose League,3,"St. Mary's Schoolrooms, Whitechapel",neutral,,,,politics
+1885-04-24,Shields Daily Gazette,Col. Majendie's Opinion,3,"Admiralty offices, Whitechapel",negative,,yes,,bombing
+1885-04-25,Freeman's Journal,East London Hibernian Club and Institue,3,"4 Thomas Street, Whitechapel",neutral,,,,"politics, election"
+1885-04-26,Lloyd's Weekly Newspaper,The Marquis of Ripon on Co-operation,4,"Hooper Square, Leman Street, Whitechapel",neutral,,,,"unemployment, economy"
+1885-04-28,Morning Post,Arrangements for this day,5,"London Hospital, Whitechapel Road",positive,,,,"royal patronage, donation"
+1885-04-28,Pall Mall Gazette,By command of the Princess Christian...,9,"London Hospital, Whitechapel",positive,,,,"royal patronage, donation"
+1885-04-28,St. James's Gazette,By command of the Princess Christian...,9,"London Hospital, Whitechapel",positive,,,,"royal patronage, donation"
+1885-05-01,St. James's Gazette,Capture of Burglars,9,"91 Leman street, Whitechapel",negative,,yes,,burglary
+1885-05-02,Illustrated Police News,Items of News,4,"Baker's Row, Whitechapel",negative,,yes,,assault
+1885-05-03,Lloyd's Weekly Newspaper,Fires in the Metropolis,3,"Middlesex Street, Whitechapel",neutral,,,,fire
+1885-05-04,London Daily News,To-Day,6,"Drill Hall, Whitechapel",positive,,,,royal visit
+1885-05-05,Pall Mall Gazette,Princess Louise in the East-End,10,"Drill Hall, Whitechapel",positive,,,,royal visit
+1885-05-05,London Daily News,The Princess Louise in the East End,6,"Drill Hall, Whitechapel",positive,,,,royal visit
+1885-05-06,Pall Mall Gazette,The Bible Society,9,Exeter Hall,positive,,,yes,religion
+1885-05-06,Hampshire Advertiser,The Working Classes and the Budget,4,"Leman Street, Whitechapel",neutral,,,,"meeting, politics, unemployment"
+1885-05-08,Chelmsford Chronicle,County and Other Items,5,Whitechapel Road,positive,,,,royal visit
+1885-05-09,Freeman's Journal,The Princess Louise...,1,"Drill Hall, Whitechapel",positive,,,,royal visit
+1885-05-09,Chepstow Weekly Advertiser,Damages for a Tramway Car Accident,2,Whitechapel Road,neutral,,,,"accident, lawsuit"
+1885-05-10,Lloyd's Weekly Newspaper,East London Industrial Exhibition,7,"Drill Hall, Whitechapel",positive,,,,royal visit
+1885-05-10,Reynolds's Newspaper,The Court,5,"Drill Hall, Whitechapel",positive,,,,royal visit
+1885-05-11,Morning Post,The Exhibition in the East End-Letters to the Editor,3,"Drill Hall, Whitechapel",positive,,,yes,"improvement, exhibition"
+1885-05-11,London Evening Standard,The Beer and Spirit Duties,3,"Trafalgar Hotel, Leman street, Whitechapel",neutral,,,,"demonstrations, politics"
+1885-05-11,Pall Mall Gazette,The Root of the Evil- The Separation of Classes,12,"Toynbee Hall, Whitechapel",positive,,,,"class, politics"
+1885-05-12,Pall Mall Gazette,Princess Christian at Poplar,10,"Drill Hall, Whitechapel",positive,,,,royal visit
+1885-05-13,Aberdeen Evening Express,The Dynamite Explosions,3,"30 Great Prescott street, Whitechapel",negative,,yes,,"bombing, trial, testimony"
+1885-05-13,Aberdeen Free Press,The Dynamite Explosions,6,"30 Great Prescott street, Whitechapel",negative,,yes,,"bombing, trial, testimony"
+1885-05-14,Aberdeen Free Press,The Dynamite Explosions,5,"30 Great Prescott street, Whitechapel",negative,,yes,,"bombing, trial, testimony"
+1885-05-14,Banbury Advertiser,The Dynamite Outrages,5,"30 Great Prescott street, Whitechapel",negative,,yes,,"bombing, trial, testimony"
+1885-05-15,Cornubian and Redruth Times,Art and Literature,3,"Toynbee Hall, Whitechapel",positive,,,,history
+1885-05-15,Aberdeen Evening Express,The Dynamite Explosions,3,"Tenter Street, Whitechapel",negative,,yes,,"bombing, trial, testimony"
+1885-05-16,Freeman's Journal,East London Hibernian Club,7,"4 Thomas Street, Whitechapel",neutral,,,,politics
+1885-05-16,The Graphic,Toynbee Hall and the Workmen's Exhibition,15,"Drill hall, Whitechapel",positive,,,,"class, improvement, exhibition"
+1885-05-16,Aberdeen Free Press,The Dynamite Explosions,5,"Tenter Street, Whitechapel",negative,,yes,,"bombing, trial, testimony"
+1885-05-18,Sheffield Daily Telegraph,General News,3,"72 Mansell Street, Whitechapel",negative,,yes,,photographs
+1885-05-21,London Daily News,Toynbee Hall,3,"Toynbee Hall, Whitechapel",positive,,,,"education, improvement"
+1885-05-22,Chelmsford Chronicle,Daring Robbery,8,Whitechpael Road,negative,,yes,,robbery
+1885-05-23,Shoreditch Observer,Professor Stuart on University Teaching,3,"Toynbee Hall, Whitechapel",positive,,,,"education, improvement"
+1885-05-23,Morning Post,The East London Exhibition,2,"Drill Hall, Whitechapel",positive,,,,"Lord Mayor, exhibition"
+1885-05-23,Berkshire Chronicle,Miscellaneous Intelligence,7,"72 Mansell Street, Whitechapel",negative,,yes,,"photographs, copyright"
+1885-05-23,Buckingham Advertiser,Epitome of News,3,"72 Mansell Street, Whitechapel",negative,,yes,,"photographs, copyright"
+1885-05-23,Buckingham Advertiser,The Dynamite Outrages,2,"11 Tenter Street, Whitechapel",negative,,yes,,"bombing, trial, testimony"
+1885-05-23,Bury Free Press,Epitome of News,3,"72 Mansell Street, Whitechapel",negative,,yes,,"photographs, copyright"
+1885-05-23,Bury Free Press,The Dynamite Outrages,2,"11 Tenter Street, Whitechapel",negative,,yes,,"trial, witnesses"
+1885-05-23,Chepstow Weekly Advertiser,Epitome of News,3,"72 Mansell Street, Whitechapel",negative,,yes,,"photographs, copyright"
+1885-05-27,Morning Post,Middlesex Sessions,2,"Commercial Street, Whitechapel",negative,,yes,,theft
+1885-05-27,Pall Mall Gazette,Palace of Light for the East End,12,"London and Westminster Bank , Whitechapel Branch",positive,,,,People's Palace
+1885-05-31,Lloyd's Weekly Newspaper,Fires in the Metropolis,12,"31 Leman street, Whitechapel",neutral,,,,fire
+1885-06-03,Morning Post,Arrangements for this day,5,"New Working Lads Institute, Whitechapel",positive,,,,"bazzar, building fund"
+1885-06-03,London Evening Standard,Working Lads Institute in London,3,"The Mount, Whitechapel",positive,,,,"bazzar, building fund"
+1885-06-03,St. James's Gazette,Working Lads Institute in London,13,Cannon-street Hotel,positive,,,,"bazzar, building fund"
+1885-06-04,Morning Post,Arrangements for this day,5,"Drill Hall, Whitechapel",positive,,,,prizes
+1885-06-04,London Daily News,To-day,5,"Dril Hall, Whitechapel",positive,,,,prizes
+1885-06-07,Lloyd's Weekly Newspaper,New Working Lads' Institute,7,"Working Lads' Institute, Whitechapel",positive,,,,building
+1885-06-08,St. James's Gazette,A Money-Lending Case,12,"Leman street, Whitechapel",negative,,,,"loan, court case, debt"
+1885-06-11,London Evening Standard,Fires and loss of life in London,2,"105 Oxford Street, Whitechapel",negative,,,,"fire, death"
+1885-06-11,Morning Post,Fires and Loss of Life,6,"105 Oxford Street, Whitechapel",negative,,,,"fire, death"
+1885-06-11,St. James's Gazette,A Fatal Fire,11,"105 Oxford Street, Whitechapel",negative,,,,"fire, death"
+1885-06-13,The Graphic,"St. Jude's, Whitechapel",25,"Toynbee Hall, Whitechapel",positive,,,yes,"Rev. Barnett, improvement, religion"
+1885-06-13,Illustrated Police News,Items of News,4,"1 Little Alie Street, Whitechapel",negative,,yes,,violent assault
+1885-06-13,Bury Free Press,Epitome of News,6,"105 Oxford Street, Whitechapel",negative,,,,"fire, death"
+1885-06-14,Lloyd's Weekly Newspaper,The Working Lads' Institute,4,"Working Lads' Institute, Whitechapel road",positive,,,,building
+1885-06-14,Lloyd's Weekly Newspaper,The Marquis of Ripon at the East End,5,"Drill Hall, Whitechapel Road",positive,,,,"improvement, exhibition, prizes"
+1885-06-14,Lloyd's Weekly Newspaper,Fires in the Metropolis,12,"105 Oxford Street, Whitechapel",negative,,,,"fire, death"
+1885-06-17,Morning Post,The Sugar Trade and the Budget,2,"Central Club House, Whitechapel",neutral,,,,politics
+1885-06-18,Nottingham Evening Post,The first annual report...,2,"Toynbee Hall, Whitechapel",positive,,,,"education, class"
+1885-06-20,Illustrated Police News,Items of News,4,"The Veteran, Whitechapel Road",negative,,yes,,vandalism
+1885-06-20,Bury Free Press,Church Reform,2,"Toynbee Hall, Whitechapel",neutral,,,,religion
+1885-06-20,Freeman's Journal,East London Hibernian Club and Institute,4,"4 Thomas Street, Whitechapel",neutral,,,,politics
+1885-06-20,Beverley and East Riding Recorder,Fatal Fire in East London,2,"105 Oxford Street, Whitechapel",negative,,,,"fire, death"
+1885-06-20,Buckingham Advertiser,Church Reform,3,"Toynbee Hall, Whitechapel",neutral,,,,religion
+1885-06-20,Bury Free Press,Church Reform,2,"Toynbee Hall, Whitechapel",neutral,,,,religion
+1885-06-24,Pall Mall Gazette,The Whitechapel Murder,9,Central Criminal Court,neutral,,yes,,"Murder, court"
+1885-06-25,Morning Post,Central Criminal Court,6,Central Criminal Court,negative,,yes,,"Murder, court"
+1885-06-25,Morning Post,The Government and Sugar Bounties,6,"Leman street, Whitechapel",neutral,,yes,,"politics, sugar bounties"
+1885-06-25,Daily News,"""The Murder in Whitechapel""",3,White Hart pub on Turner St.,negative,,yes,,"Murder, Trial"
+1885-06-26,Western Daily Press,London Letter,3,"Toynbee Hall, Whitechapel",positive,,,,"parties, class, Rev. Barnett"
+1885-06-27,Bury Free Press,The Government and Foreign Sugar Bounties,2,"Leman street, Whitechapel",neutral,,,,"politics, sugar bounties"
+1885-06-28,Lloyd's Weekly Newspaper,"""The Whitechapel Murder""",4,"Rutland St, Whitechapel",negative,,yes,,"Murder, Trial"
+1885-06-28,Lloyd's Weekly Newspaper,Yesterday's Inquests,12,"21 Newnham Street, Whitechapel",negative,,,,"inquest, death, suicide"
+1885-06-30,Cheltenham Chronicle,"Henry Alt, a German...",2,Central Criminal Court; Whitechapel,negative,,yes,,"murder, trial"
+1885-07-02,Banbury Advertiser,Murder Through Jealousy,7,Central Criminal Court; Whitechapel,negative,,yes,,"murder, trial"
+1885-07-04,Pall Mall Gazette,Occasional Notes,3,"Bell-lane, Whitechapel",negative,,,yes,"overcrowding, Metropolitan Board of Works"
+1885-07-04,St. James's Gazette,Music for the People,4,"Toynbee Hall, Whitechapel",positive,,,,"music, show"
+1885-07-05,Lloyd's Weekly Newspaper,Coroner's Inquests,3,"21 Newnham Street, Whitechapel",negative,,,,"inquest, death, suicide"
+1885-07-05,Lloyd's Weekly Newspaper,Fires in the Metropolis,12,"54 Leman Street, Whitechapel",neutral,,,,fire
+1885-07-06,Morning Post,Music for the People,2,"Toynbee Hall, Whitechapel",positive,,,,"music, show"
+1885-07-06,Morning Post,Chancery Division,6,"Earlstone-Street, Whitechapel",neutral,,,,"court case, railway"
+1885-07-06,Pall Mall Gazette,A New Hall for the East End,7,"Assembly Hall, Whitechapel Road",positive,,,yes,"building, improvement"
+1885-07-06,St. James's Gazette,The German Reformed Church,12,"Garlstone Street, Whitechapel",neutral,,,,"court case, railway"
+1885-07-08,Nottingham Evening Post,Metropolitan Notes,2,"Toynbee Hall, Whitechapel",positive,,,yes,"improvement, charity, overcrowding"
+1885-07-08,Pall Mall Gazette,Imprisoned in Brothels,5,"Salvation Army, Whitechapel",negative,yes,yes,,"prostitution, Salvation Army"
+1885-07-08,Suffold and Essex Free Press,Dwellings of the Poor,3,"Bell Lane, Whitechapel",negative,,,yes,"Metropolitan Board of works, Overcrowding, improvement"
+1885-07-09,Leeds Mercury,"Mr. J. Morley, M.P. at Whitechapel",7,"St. Mary's Schoolrooms, Whitechapel",positive,,,,"politics, election"
+1885-07-09,Banbury Advertiser,Dwellings of the Poor,2,"Bell Lane, Whitechapel",negative,,,yes,"Metropolitan Board of works, Overcrowding, improvement"
+1885-07-09,Aberdeen Free Press,Mr. John Morley at Whitechapel,5,"St. Mary's Schools, Whitechapel",neutral,,,,"politics, election"
+1885-07-10,St. James's Gazette,The Condemned Prisoner in Newgate,13,Newgate Prison.,negative,,yes,,"murder, execution"
+1885-07-11,Dublin Weekly Nation,Dissensions Amongst the Whigs,5,"St. Mary's Schools, Whitechapel",neutral,,,,"politics, election"
+1885-07-11,Hampshire Advertiser,American Sugar Bounties,2,"Leman Street, Whitechapel",neutral,,,,"politics, sugar bounties"
+1885-07-11,Cardiff Times,"Mr. John Morley, M.P. at Whitechapel",6,"St. Mary's Schools, Whitechapel",neutral,,,,"politics, election"
+1885-07-12,Lloyd's Weekly Newspaper,Middlesex Sessions-The Dangers of Whitechapel,8,Whitechapel Road,negative,,yes,,robbery
+1885-07-12,Lloyd's Weekly Newspaper,Miscellaneous Summary,2,"Baker's Row, Whitechapel",negative,,,,"fire, injury"
+1885-07-12,Lloyd's Weekly Newspaper,Overcrowding in the East End,4,"Bell Lane, Whitechapel",negative,,,yes,"overcrowding, Metropolitan Board of Works"
+1885-07-12,Reynolds's Newspaper,Summary of Latest Home News,8,"Middlesex-street, Whitechapel",neutral,,,,accident
+1885-07-15,Western Daily Press,London Letter,8,"Toynbee Hall, Whitechapel",neutral,,,yes,"newspapers, sanitation, improvement"
+1885-07-17,Dundee Evening Telegraph,Ladies' Column- A Stroll in Whitechapel,4,Whitechapel Road,positive,,,yes,"visit, stalls"
+1885-07-18,Freeman's Journal,East London Hibernian Club and Institute,4,4 Thomas Street,neutral,,,,politics
+1885-07-23,Morning Post,Her Royal Highness...,5,"Working Lads' Institute, Whitechapel Road",neutral,,,,royal visit
+1885-07-24,Birmingham Daily Post,Gleanings,3,"Working Lads' Institute, Whitechapel Road",positive,,,,royal visit
+1885-07-25,London Evening Standard,The Board of Works,2,142 Whitechapel Road,negative,,yes,,"Metropolitan Board of Works, exhibition, nuisance"
+1885-07-26,Lloyd's Weekly Newspaper,Fires in the Metropolis,12,"19 Tenter-street north, Whitechapel",neutral,,,,fire
+1885-07-28,Morning Post,Whitechapel Foundation School,5,"Whitechapel Foundation School, Charity Commission, Leman street, Whitechapel",positive,,,,"prizes, education"
+1885-07-28,Morning Post,Middlesex Sessions,3,Whitechapel casual ward,negative,,yes,yes,vagabond
+1885-07-28,St. James's Gazette,The Government and Sugar Bounties,13,"The Trafalgar, Leman street, Whitechapel",neutral,,,,"sugar bounties, politics"
+1885-07-30,Bath Chronicle and Weekly Gazette,"Court, fashion, etc.",6,"Working Lads Institute, Whitechapel Road",positive,,,,royal visit
+1885-07-31,Cornubian and Redruth Times,Epitome of News,3,London Hospital; Whitechapel,neutral,,,,"burn, accident"
+1885-07-31,London Evening Standard,Police Intelligence,6,"Church lane, Whitechapel",negative,,yes,,"theft, receiving stolen goods"
+1885-08-01,Illustrated Police News,An Extraordinary Character,4,Whitechapel casual ward,negative,,yes,yes,vagabond
+1885-08-01,Pall Mall Gazette,Other meetings,8,"St. Mary's Schools, Whitechapel",positive,yes,yes,,"meeting, politics"
+1885-08-01,Reading Mercury,Windsor Petty Sessions,5,Windsor Police Court; Whitechapel,negative,,yes,,newspapers
+1885-08-01,Beverley and East Riding Recorder,"""A horrible case of...""",7,Whitechapel; London Hospital,neutral,,,,"accident, injury"
+1885-08-01,Buckingham Advertiser,The Sunday Society,2,"St. Jude's, Whitechapel",neutral,,,,"Sunday observance, politics"
+1885-08-03,Gloucester Citizen,General Intelligence,3,Central Criminal Court; Whitechapel,negative,,yes,,robbery
+1885-08-05,London Daily News,The Government and Foreign Sugar Bounties,3,"Leman Street, Whitechapel",neutral,,,,"meeting, sugar bounties, politics"
+1885-08-07,Chelmsford Chronicle,Petty Sessions,2,"9 East Street, Whitechapel",negative,,yes,,theft
+1885-08-08,Aberdeen Journal,Shocking Death at School,3,"Bell Lane, Whitechapel",neutral,,,,"accident, inquest, death"
+1885-08-08,Yorkshire Post and Leeds Intelligencer,Commercial News,11,Little Prescott street,neutral,,,,"improvement, roads"
+1885-08-08,Illustrated Police News,Daring Carriage Robbery,3,"Brushfield Street, Whitechapel",negative,,yes,,robbery
+1885-08-08,Buckingham Advertiser,Foreign Sugar Bounties,6,"Leman street, Whitechapel",neutral,,,,"meeting, sugar bounties, politics"
+1885-08-08,Bury Free Press,Foreign Sugar Bounties,6,"Leman street, Whitechapel",neutral,,,,"meeting, sugar bounties, politics"
+1885-08-08,Chepstow Weekly Advertiser,Foreign Sugar Bounties,2,"Leman street, Whitechapel",neutral,,,,"meeting, sugar bounties, politics"
+1885-08-09,Lloyd's Weekly Newspaper,Open Verdict,3,Whitechapel Infirmary,negative,,,,"inquest, death, illness"
+1885-08-09,Reynolds's Newspaper,Fires in London,8,137 Whitechapel Road,neutral,,,,fire
+1885-08-10,Morning Post,Parliamentary Candidates and Foreign Bounties,3,"Leman Street, Whitechapel",neutral,,,,"sugar bounties, politics"
+1885-08-11,Western Daily Press,Cruelty to a Horse,7,"Blackhorse yard, Whitechapel",negative,,yes,,"cruelty to animals, omnibus"
+1885-08-12,Pall Mall Gazette,Indecent Assault on a Child,10,"Horse and Leaping Bar, Hight street, Whitechapel",negative,yes,yes,,"assault, child"
+1885-08-15,Illustrated Police News,The death of Edward...,4,"Weaver's Arms, Baker's-row, Whitechapel",neutral,,,,"death, accident"
+1885-08-16,Lloyd's Weekly Newspaper,Fires in the Metropolis,3,"51 Charlotte Street, Whitechapel",neutral,,,,fire
+1885-08-17,Morning Post,The Commission on Depression in Trade,3,"Trafalgar Hotel, Leman street, Whitechapel",neutral,,,,"unemployment, sugar bounties, election"
+1885-08-18,Morning Post,Police Intelligence,6,Whitechapel Road,negative,,yes,,"disorderly conduct, drunkeness"
+1885-08-19,Morning Post,Inquests,3,"The Pavillion, Whitechapel",negative,,,,"inquest, death, overdose"
+1885-08-21,Edinburgh Evening News,Prepared for the Thieves,4,Whitechapel Road,negative,,yes,,theft
+1885-08-22,Illustrated Police News,Items of News,4,Whitechapel Road,negative,,yes,,"disorderly conduct, drunkeness"
+1885-08-22,Shoreditch Observer,Clever Capture of a Thief,4,Whitechapel Road,negative,,yes,,theft
+1885-08-22,Buckingham Advertiser,Sudden Death of an Actor,6,"Pavilion Theatre, Whitechapel",neutral,,,,death
+1885-08-23,Lloyd's Weekly Newspaper,Police Intelligence,8,Whitechapel Road,negative,,yes,,"disorderly conduct, drunkeness"
+1885-08-23,Lloyd's Weekly Newspaper,Annoying the Salvation Army,3,"Salvation Army Hall, Whitechapel",negative,,yes,,"disorderly conduct, drunkeness"
+1885-08-24,Manchester Courier and Lancashire General Advertiser,Clever Capture of a House-Breaker,6,"9 Dorset Street, Whitechapel",neutral,,yes,,breaking and entering
+1885-08-25,Sheffield Daily Telegraph,Depressed Trade Commission,6,"Trafalgar Hotel, Leman street, Whitechapel",neutral,,,,"politics, economics, sugar bounties"
+1885-08-25,London Daily News,The Royal Commission and the Sugar Bounties,3,"Trafalgar Hotel, Leman street, Whitechapel",neutral,,,,"politics, economics, sugar bounties"
+1885-08-26,Morning Post,Police Intelligence,6,"Leman Street, Whitechapel",negative,,yes,,"robbery, tea"
+1885-08-27,Exeter and Plymouth Gazette,A Suspicious Case,4,"Jewish Girls' School, Old Castle Street, Whitechapel",negative,,yes,,child
+1885-08-27,Morning Post,Police Intelligence,6,"Jewish Girls' School, Old Castle Street, Whitechapel",negative,,yes,,child
+1885-08-28,Edinburgh Evening News,Singular Charge of Attempted Abduction,4,"Jewish Girls' School, Old Castle Street, Whitechapel",negative,,yes,,child abduction
+1885-08-28,Morning Post,Charge of Burglary,6,"Great Garden street, Whitechapel",negative,,yes,,"burglary, breaking and entering"
+1885-08-28,Manchester Courier and Lancashire General Advertiser,Charge of Burglary,6,"Great Garden street, Whitechapel",negative,,yes,,"burglary, breaking and entering"
+1885-08-28,St. James's Gazette,Charge of Burglary,13,"Great Garden street, Whitechapel",negative,,yes,,"burglary, breaking and entering"
+1885-08-29,Illustrated Police News,Police Intelligence,3,"28 Commercial Road, Whitechapel",negative,,yes,,embezzlement
+1885-08-30,Reynolds's Newspaper,Summary of Latest Home News,8,"Common Lodging House, Wentworth Street, Whitechapel",neutral,,,,injury
+1885-08-31,London Evening Standard,Election Intelligence,3,"Trafalgar Hotel, Leman street, Whitechapel",neutral,,,,"politics, election"
+1885-09-01,Pall Mall Gazette,Failing to Consume Smoke,10,Whitechapel Road,negative,,yes,,sugar industry
+1885-09-03,Pall Mall Gazette,Conservative Voting Objections,6,St. Mary's School Rooms,negative,,,,"politics, election"
+1885-09-04,Cornubian and Redruth Times,Epitome of News,3,"George Street, Whitechapel",negative,,yes,,violent assault
+1885-09-04,Morning Post,Inquests,6,"Weaval Arms, Baker's Row",negative,,,yes,"inquest,death"
+1885-09-04,Morning Post,Serious Charge of Embezzlement,6,"Backchurch lane, Whitechapel",negative,,yes,,embezzlement
+1885-09-05,Pall Mall Gazette,The Princess of Wales...,5,"Working Lads' Institute, Whitechapel Road",positive,,,,royal visit
+1885-09-05,Beverley and East Riding Recorder,"""An Irish labourer...""",7,"George Street, Whitechapel",negative,,yes,,assault
+1885-09-06,Lloyd's Weekly Newspaper,Fires in the Metropolis,3,236 Whitechapel Road,neutral,,,,fire
+1885-09-06,Lloyd's Weekly Newspaper,Yesterday's Inquests,12,London Hospital,neutral,,,,"injury, accident"
+1885-09-07,Morning Post,Charge of Robbing a Pole,6,"No. 55 New Road, Whitechapel",negative,,yes,,"fraud, theft, Pole"
+1885-09-08,Morning Post,Police Intelligence,3,"Backchurch lane, Whitechapel",negative,,yes,,theft
+1885-09-08,Bristol Mercury,News of the Day,5,Whitechapel Road,neutral,,,,drowning
+1885-09-08,London Evening Standard,Police Intelligence,6,"34 Leman street, Whitechapel",negative,,yes,,Forgery
+1885-09-08,Aberdeen Evening Express,Case of Drowning,2,Whitechapel Road,neutral,,,,drowning
+1885-09-08,Aberdeen Free Press,Two boys while...,6,Whitechapel Road,neutral,,,,drowning
+1885-09-08,Bury and Norwich Post,Singular Charge of Robbery,3,"55 New Road, Whitechapel",negative,,yes,,"fraud, theft, Pole"
+1885-09-10,Banbury Advertiser,Singular Charge of Robbery,2,"55 New Road, Whitechapel",negative,,yes,,"fraud, theft, Pole"
+1885-09-12,Illustrated Police News,Everybody's Column,2,"Working Lads' Institute, Whitechapel",positive,,,,royal visit
+1885-09-12,Aberdeen Journal,General News,3,Whitechapel Road,neutral,,,,drowning
+1885-09-12,Cardiff Times,Exciting Scene at Ramsgate,7,Whitechapel Road,neutral,,,,drowning
+1885-09-13,Reynolds's Newspaper,Police Courts,8,"34 Leman street, Whitechapel",negative,,yes,,Forgery
+1885-09-17,Morning Post,University Teaching in East London,2,"Toynbee Hall, Whitechapel",positive,,,,"education, improvement"
+1885-09-17,London Evening Standard,Lord Ripon on University Education,3,"Toynbee Hall, Whitechapel",positive,,,,"education, improvement"
+1885-09-17,St. James's Gazette,A Cabman's Difficulty,8,Whitechapel Road,negative,,,,"illness, disease"
+1885-09-18,London Evening Standard,The London Society for...,3,"Toynbee Hall, Whitechapel",neutral,,,,"education, University Extension Society"
+1885-09-19,London Evening Standard,The Tower Hamlets Register-Letters to the Editor,3,102 Whitechapel Road,neutral,,,,"politics, election"
+1885-09-19,Essex Standard,"Mr. Willis, Q.C, M.P. at Whitechapel",8,"Brick lane, Whitechapel",neutral,,,,"politics, election"
+1885-09-21,Morning Post,The Foreign Bounty System,7,"Trafalgar Hotel, Leman street, Whitechapel",neutral,,,,"politics, election, unemployment, sugar bounties"
+1885-09-22,London Daily News,The Socialists and the Free Speech Question,2,"1 Tentner street, Whitechapel",negative,,yes,,"politics, resisting police"
+1885-09-23,Daily Gazette for Middlesborough,On several occasions...,2,  Whitechapel,neutral,,yes,,"politics, resisting police"
+1885-09-23,Yorkshire Post and Leeds Intelligence,The London Socialists and the Police,4,"Dod Street, Whitechapel",neutral,,,,"politics, Socialists"
+1885-09-26,Worcestershire Chronicle,Religious News,3,"St. Jude's , Whitechapel",positive,,,,"education, improvement, university"
+1885-09-26,Essex Standard,Colchester and County Notes,2,Colchester; Whitechapel,neutral,,,,"politics, election"
+1885-09-26,Hertford Mercury and Reformer,Petty Sessions,3,Whitechapel Road,negative,,yes,,forgery
+1885-09-26,London Evening Standard,Police Intelligence,2,"34 Leman Street, Whitechapel",negative,,yes,,"forgery, roubles"
+1885-09-27,Lloyd's Weekly Newspaper,Hard on the Cabman,8,Whitechapel Road,negative,,,,"illness, disease"
+1885-09-27,Reynolds's Newspaper,Prosecution of Socialists,6,Dod street and Burdett road,negative,,yes,,"politics, resisting police"
+1885-09-29,Mid Sussex Times,Harvest Thanksgiving Services,5,"London Hospital, Whitechapel",positive,,,,"donation, religion"
+1885-10-01,Morning Post,Her Royal Highness...,5,"Working Lads' Institute, Whitechapel Road",positive,,,,royal visit
+1885-10-01,Pall Mall Gazette,"Working Lads' Institute, Whitechapel",10,"Working Lads' Institute, Whitechapel Road",positive,,,,royal visit
+1885-10-01,London Evening Standard,The Registration Courts-Tower Hamlets,2,"Court House, Wellclose square; Whitechapel",neutral,,,,"elections, politics"
+1885-10-02,St. James's Gazette,The Registration Courts-Claims of Aliens,11,"court House, Wellclose square; Whitechapel",neutral,,,,"politics, election"
+1885-10-02,Birmingham Daily Post,Gleanings,7,"Working Lads' Institute, Whitechapel",positive,,,,royal visit
+1885-10-03,Morning Post,The Forgery of Russian Notes,3,"34 Leman Street, Whitechapel",negative,,yes,,"forgery, roubles, testimony"
+1885-10-03,London Evening Standard,Police Intelligence-Guildhall,2,"34 Leman Street, Whitechapel",negative,,yes,,"forgery, roubles, testimony"
+1885-10-03,London Evening Standard,The Registration Courts,3,"court House, Wellclose square; Whitechapel",neutral,,,,"politics, election"
+1885-10-03,Shoreditch Observer,Harvest Festival at the Pavilion Theatre,2,"Pavilion Theatre, Whitechapel",positive,,,,religion
+1885-10-03,Pall Mall Gazette,Stealing a Judge's Wine,10,  Whitechapel County Court,negative,,yes,,theft
+1885-10-04,Lloyd's Weekly Newspaper,Town and Country Talk,5,"Working Lads' Institute, Whitechapel Road",positive,,,,royal visit
+1885-10-04,Lloyd's Weekly Newspaper,Miscellaneous Summary,4,"Garden-street, Whitechapel",neutral,,,,accident
+1885-10-04,Reynolds's Newspaper,"Yesterday's Law, Police, etc.",8,London Hospital,negative,,yes,,assault
+1885-10-05,Pall Mall Gazette,Occasional Notes,3,"Toynbee Hall, Whitechapel",positive,,,yes,"improvement, education, literature"
+1885-10-05,Morning Post,Lord Ripon on University Teaching,3,"Toynbee Hall, Whitechapel",positive,,,,"improvement, education"
+1885-10-05,London Daily News,The Marquis of Ripon opened...,4,"Toynbee Hall, Whitechapel",positive,,,,"improvement, education"
+1885-10-05,London Daily News,The Police Courts,7,London Hospital,negative,,yes,,"assault, attempted murder"
+1885-10-05,London Evening Standard,In the revision of...,3,"69 White Lion Street, Whitechapel",neutral,,,,"election, revision"
+1885-10-05,St. James's Gazette,Lord Ripon in Whitechapel,9,"Toynbee Hall, Whitechapel",positive,,,,"improvement, education, class"
+1885-10-05,Bristol Mercury,The Marquis of Ripon...,8,"Toynbee Hall, Whitechapel",positive,,,,education
+1885-10-06,London Evening Standard,The Registration Courts,2,"Wellclose-square, Leman street",neutral,,,,"election, politics"
+1885-10-06,Bury and Norwich Post,Theft of a Judge's Wine,3,Thames Police Court,negative,,yes,,theft
+1885-10-07,London Daily News,Metropolitan Public Gardens Association,2,"London Hospital, Whitechapel Road",positive,,,,"open spaces, donation"
+1885-10-08,Bath Chronicle and Weekly Gazette,Political,6,"Registration Court, Whitechapel",neutral,,,,"politics, voting"
+1885-10-09,Morning Post,Music and Dancing Licenses,6,"Jewish Working Men's Club, Whitechapel",neutral,,,,"licenses, dancing, music"
+1885-10-10,The Graphic,Magazines,7,"Toynbee Hall, Whitechapel",positive,,,,Literature
+1885-10-10,Buckingham Advertiser,Epitome of News,3,Guildhall Police Court; Whitechapel,negative,,yes,,"roubles, forgery"
+1885-10-10,Buckingham Advertiser,Epitome of News,3,"Toynbee Hall, Whitechapel",positive,,,,"education, improvement"
+1885-10-10,Bury Free Press,Epitome of News,3,Guildhall Police Court; Whitechapel,negative,,yes,,"roubles, forgery"
+1885-10-11,Lloyd's Weekly Newspaper,Miscellaneous Summary,2,"Tenter-street, Whitechapel",neutral,,,,accident
+1885-10-11,Lloyd's Weekly Newspaper,University Teaching,7,"Toynbee Hall, Whitechapel",positive,,,,"education, lectures"
+1885-10-11,Lloyd's Weekly Newspaper,Coroner's Inquests,3,"35 George Yard common lodging house, Whitechapel",neutral,,,,"accident, inquest, death"
+1885-10-11,Reynolds's Newspaper,"Yesterday's Law, Police, etc.",8,"34 Leman street, Whitechapel",negative,,yes,,"breaking and entering, burglary"
+1885-10-12,Morning Post,Police Intelligence,6,"34 Leman street, Whitechapel",negative,,yes,,"breaking and entering, burglary"
+1885-10-12,London Evening Standard,Police Intelligence,6,21 Mulberry street,negative,,yes,,kidnapping
+1885-10-16,Daily Gazette for Middlesborough,At Grisseltow's,4,Spitalfields Church; Whitechapel,negative,,,yes,common lodging house
+1885-10-19,Morning Post,Police Intelligence,6,"26 Back Church lane, Whitechapel",negative,yes,yes,,"sexual assault, roughs"
+1885-10-19,Morning Post,Fires in the Metropolis,6,"Size yard, Whitechapel Road",neutral,,,,fire
+1885-10-19,Pall Mall Gazette,Occasional Notes,3,Thames Police Court,negative,yes,yes,,"sexual assault, roughs"
+1885-10-19,Pall Mall Gazette,A Brutal Outrage,10,Thames Police Court,negative,yes,yes,,"sexual assault, roughs"
+1885-10-19,London Evening Standard,Fires in London,3,"Size yard, Whitechapel Road",neutral,,,,fire
+1885-10-20,London Evening Standard,The London School Board Election,2,"Jewish Working Men's Club, Whitechapel",neutral,,,,"election, politics, education"
+1885-10-20,London Evening Standard,Police Intelligence,6,Worship Street Police Court; Whitechapel road,negative,,yes,,"fight, disorderly conduct"
+1885-10-21,Edinburgh Evening News,A Cruel Trick,3,"Martha Street, Whitechapel",negative,,yes,,"assault, blinding"
+1885-10-21,Morning Post,Police Intelligence,3,"39 Rutland street, New-road, Whitechapel",negative,,yes,,"robbery, theft"
+1885-10-22,Morning Post,Police Intelligence,6,"Vine Court, Whitechapel",negative,,yes,,"theft, costermonger"
+1885-10-23,Morning Post,Lord Salisbury and the Depression of Trade,3,"Trafalgar Hotel, Leman Street, Whitechapel",neutral,,,yes,"sugar bounties, politics"
+1885-10-23,London Evening Standard,The Government and the Depression of Trade,2,"Trafalgar Hotel, Leman Street, Whitechapel",neutral,,,,"sugar bounties, politics"
+1885-10-23,St. James's Gazette,The Royal Commission on Trade,12,"Trafalgar Hotel, Leman Street, Whitechapel",neutral,,,,"sugar bounties, politics"
+1885-10-24,Morning Post,Police Intelligence,3,"Church lane, Whitechapel",negative,yes,yes,,sexual assault
+1885-10-25,Lloyd's Weekly Newspaper,A Van Race in Fenchurch street,3,"Osborne street, Whitechapel",negative,,yes,,"racing, drinking"
+1885-10-25,Lloyd's Weekly Newspaper,Fires in the Metropolis,12,"38 Charlotte Street, Whitechapel",neutral,,,,fire
+1885-10-25,Reynolds's Newspaper,Fires in London,8,"38 Charlotte Street, Whitechapel",neutral,,,,fire
+1885-10-25,Bath Chronicle and Weekly Gazette,"Ecclesiastical, etc.",6,"St. Mary's, Whitechapel",neutral,,,,religion
+1885-10-26,Birmingham Daily Post,Gleanings,6,"Working Lads' Institute, Whitechapel",positive,,,,royal visit
+1885-10-28,St. James's Gazette,Highway Robberies in the East End,13,Whitechapel Road,negative,,yes,,robbery
+1885-10-28,Morning Post,Police Intelligence,6,Whitechapel Road,negative,,yes,,robbery
+1885-10-29,Portsmouth Evening News,Wife Murder,3,"London Hospital, Whitechapel",negative,,yes,,"murder, domestic abuse"
+1885-10-29,Portsmouth Evening News,"The ""Pall Mall Gazette"" and Its Secret Commission-Charge of Abduction",3,"Lady Lake-grove, Whitechapel",negative,yes,yes,,abduction
+1885-10-29,Nottingham Evening Post,The Armstrong Abduction Case,3,"Ladylake grove, Whitechapel",negative,yes,yes,,abduction
+1885-10-30,Morning Post,Police Intelligence,6,"Brunswick Buildings, Whitechapel",negative,,yes,,"suspected robbery, banknotes"
+1885-10-30,London Evening Standard,Police Intelligence,3,"Brunswick Buildings, Whitechapel",negative,,yes,,"suspected robbery, banknotes"
+1885-10-30,Nottingham Evening Post,Alleged Outrage,3,  Whitechapel,negative,yes,yes,,sexual assault
+1885-10-31,London Evening Standard,The Abduction Trial,2,"23 Lady Lake, Whitechapel",negative,yes,yes,,"abduction, testimony"
+1885-10-31,Morning Post,Arrangements for this Day,5,"Working Lads' Institute, Whitechapel",positive,,,,royal visit
+1885-10-31,Freeman's Journal,The New Criminal Law Amendment Act in Operation,7,Thames Police Court,negative,yes,yes,,sexual assault
+1885-10-31,Illustrated Police News,Exciting Scene at a Fire,2,27-28 Whitechapel Road,neutral,,,,fire
+1885-10-31,Leicester Chronicle,Our Ladies' Column,9,"Pavilion Theatre, Whitechapel",negative,,,yes,"Emmigration, Salvation Army"
+1885-10-31,Western Daily Press,Religious Services in Places of Amusement,2,"Pavillion Theatre, Whitechapel",positive,,,,religion
+1885-10-31,London Daily News,The School Board Election,5,"St. Mary's Schools, Whitechapel",neutral,,,,"election, education, politics"
+1885-10-31,London Daily News,To-Day,5,"Working Lads' Institute, Whitechapel",positive,,,,royal visit
+1885-10-31,Sheffield Independent,Topics of the Day,9,"Artisans' Lodgings, Whitechapel",negative,,,yes,"rent, dwellings"
+1885-10-31,Pall Mall Gazette,Royalties this Day,8,"Working Lads' Institute, Whitechapel",positive,,,,royal visit
+1885-10-31,Aberdeen Free Press,The Armstrong Abduction Case,5,"Ladylake road, Whitechapel",negative,yes,yes,,"abduction, testimony"
+1885-10-31,Aberdeen Journal,The Armstrong Abduction Case,5,"Ladylake road, Whitechapel",negative,yes,yes,,"abduction, testimony"
+1885-10-31,Birmingham Daily Post,On the resumption...,4,"Ladylake road, Whitechapel",negative,yes,yes,,"abduction, testimony"
+1885-10-31,Pall Mall Gazette,The New Working Lads' Institute,6,"Working Lads' Institute, Whitechapel road",positive,,,,"royal visit, improvement"
+1885-11-01,Lloyd's Weekly Newspaper,Police Intelligence,12,"70 Baker's Row, Whitechapel",negative,,yes,yes,"breaking and entering, burglary"
+1885-11-01,Reynolds's Newspaper,"Yesterday's Law, Police, etc.",8,"70 Baker's Row, Whitechapel",negative,,yes,yes,"breaking and entering, burglary"
+1885-11-01,Reynolds's Newspaper,Working Lads' Institute,8,"Working Lads' Institute, Whitechapel",positive,,,yes,"improvement, royal visit"
+1885-11-02,Pall Mall Gazette,Royalty in the East End,10,"Working Lads' Institute, Whitechapel",positive,,,,"royal visit, improvement"
+1885-11-02,Morning Post,Royal Visit to the East End,3,"Working Lads' Institute, Whitechapel",positive,,,,"royal visit, improvement"
+1885-11-02,London Daily News,The Working Lads' Institute,6,"Working Lads' Institute, Whitechapel",positive,,,yes,"royal visit, improvement, religion"
+1885-11-02,St. James's Gazette,Royal Visit to Whitechapel,12,"Working Lads' Institute, Whitechapel",positive,,,,"royal visit, improvement"
+1885-11-02,Aberdeen Evening Express,Royalty in Whitechapel,2,"Working Lads' Institute, Whitechapel",positive,,,,"royal visit, improvement"
+1885-11-03,St. James's Gazette,The Armstrong Abduction Case,8,"23 Lady Lake Grove, Whitechapel",negative,yes,yes,,"trial, abduction"
+1885-11-03,Bury and Norwich Post,Royalty at the East End,8,"Working Lads' Institute, Whitechapel",positive,,,,royal visit
+1885-11-07,London Daily News,The Shocking Assault on an Austrian Girl,6,"Church-lane, Whitechapel",neutral,yes,yes,,"sexual assault, roughs, witnesses"
+1885-11-07,Pall Mall Gazette,The Shocking Assault on an Austrian Girl,10,"Church-lane, Whitechapel",neutral,yes,yes,,"sexual assault, roughs, witnesses"
+1885-11-07,The Graphic,Working Lads' Institute,4,"Working Lads' Institute, Whitechapel",positive,,,yes,"royal visit, improvement"
+1885-11-07,Beverley and East Riding Recorder,Epitome of News,3,"Working Lads' Institute, Whitechapel",positive,,,,royal visit
+1885-11-07,Bucks Herald,London Letter,8,"Working Lads' Institute, Whitechapel",positive,,,,royal visit
+1885-11-07,Chepstow Weekly Advertiser,Serious Charge Against a Diamond Merchant,4,"Goulstone street, Whitechapel",negative,,yes,,theft
+1885-11-07,Chepstow Weekly Advertiser,Royalty in the East End,4,"Working Lads' Institute, Whitechapel",positive,,,,royal visit
+1885-11-08,Reynolds's Newspaper,The Rev. George Davenport...,1,"St. Mark's Vicarage, Whitechapel",neutral,,,,religion
+1885-11-09,Birmingham Daily Post,Gleanings,7,Worship Street Police Court; Whitechapel,negative,,yes,,"breaking and entering, burglary"
+1885-11-11,Morning Post,Arrangements for this Day,5,"St. Mary's Schools, Whitechapel Road",neutral,,,,"election, politics"
+1885-11-12,London Evening Standard,Mr. Chamberlain and the Sugar Bounties,3,"Central Club Rooms, Whitechapel",neutral,,,,"sugar bounties, politics"
+1885-11-13,Morning Post,Election Intelligence,2,"St. Botolph's Schools, Royal Mint Street",neutral,,,,"elections, politics"
+1885-11-14,The Era,The annual benefit of...,10,"London Hospital, Whitechapel Road",positive,,,,charity
+1885-11-14,London Evening Standard,Middlesex Sessions,2,"New Castle street, Whitechapel",negative,,yes,,"sexual assault, trial"
+1885-11-14,Illustrated Police News,Shocking Murder by Armed Burglars,2,Whitechapel Road,negative,,yes,,"threats, murder"
+1885-11-15,Reynolds's Newspaper,Outrage on an Austrian Girl,5,"Church lane, Whitechapel",negative,yes,yes,,"sexual assault, trial"
+1885-11-16,Yorkshire Gazette,Mysterious Death on the Railway,4,"Whitechapel Station, East London Railway",negative,,,,"death, railway"
+1885-11-17,Morning Post,"The St. Olave, Old Jewry...",5,"St. Mark's, Whitechapel",neutral,,,,"religion, lecture"
+1885-11-17,London Evening Standard,Fire in Whitechapel,3,107 Whitehorse-street,neutral,,,,"fire, accident"
+1885-11-19,London Daily News,Mr. S. Montagu in Whitechapel,6,"St. Paul's School, Wellclose-square",neutral,,,,"politics, election, Home Rule"
+1885-11-21,Morning Post,Police Intelligence,2,  Whitechapel,negative,,yes,,fraud
+1885-11-21,Illustrated Police News,Attempting to Pick Pockets,4,Whitechapel Road,negative,,yes,,"theft, evidence"
+1885-11-21,London Daily News,Preachers for To-morrow,3,"Pavilion Theatre, Whitechapel Road East",neutral,,,,"religion, preaching"
+1885-11-24,Pall Mall Gazette,Threatening a Canvasser,9,"Newnham-street, Whitechapel",negative,,yes,,"politics, election, threats"
+1885-11-24,St. James's Gazette,Rioutous Election Proceedings,8,"Newnham-street, Whitechapel",negative,,yes,,"politics, election, threats"
+1885-11-26,Banbury Advertiser,Rioutous Election Proceedings,6,"Newnham-street, Whitechapel",negative,,yes,,"politics, election, threats"
+1885-12-16,Huddersfield Chronicle,"A respectable-looking, hard-working man...",4,"Backchurch-lane, Whitechapel",negative,,yes,,"fraud, ""sharing out"" club."
+1885-12-17,Belfast News-letter,"""A Sharing Club""",3,"Backchurch-lane, Whitechapel",negative,,yes,,"fraud, ""sharing out"" club."
+1885-12-22,Cheltenham Chronicle,"""Home Rule for the Church""",2,"St. Jude's, Whitechapel",neutral,,,,religion
+1885-12-24,Aberdeen Free Press,Destructive Fires in London,5,"Commercial road, Whitechapel",neutral,,,,fire
+1885-12-31,Leeds Mercury,A fire broke out...,3,"Rupert Street, Whitechapel",neutral,,,,fire
+1885-12-31,Belfast News-letter,"A fire, which...",4,"Rupert Street, Whitechapel",neutral,,,,fire
+1885-02-02,Birmingham Daily Post,"""Prince Albert Victor in Whitechapel""",5,"Leman Street, Whitechapel",positive,,,yes,"Public service, hard work, conscience"
+1885-02-02,The Pall Mall Gazette,"""Prince Edward in Whitechapel""",4,"Leman Street, Whitechapel",positive,,,yes,"Monarchy, class, political unity"
+1885-04-14,The Pall Mall Gazette,"""Mill-Yard Burial Ground, Whitechapel",6,"Mill-Yard Chapel and property, Whitechapel",neutral,,,,"Railway, Church, Graveyard"
+1885-06-13,The Graphic,"""St. Jude's, Whitechapel""",614,"St Jude's Parish, Whitechapel",positive,,,yes,"Church, poverty, charity"
+1885-06-25,Daily News,"""The Murder in Whitechapel""",3,Rutland St,negative,,yes,,"Murder, Trial"
+1885-06-28,Lloyd's Weekly Newspaper,"""The Whitechapel Murder""",4,"Rutland St, Whitechapel",negative,,yes,,"Murder, Trial"
+1885-07-01,Trewman's Exeter Flying Post,"""The Whitechapel Murder""",3,Rutland St. Whitechapel,negative,,yes,,"Murder, Trial"
+1885-07-09,The Leeds Mercury,"""Mr J. Morley, M.P., at Whitechapel""",7,"St. Mary's Schoolroom, Whitechapel",positive,,,,"Politics, Liberalism"
+1885-10-31,The Pall Mall Gazette,"""The New Working Lads Institute at Whitechapel""",6,opposite the London hospital on Whitechapel rd,neutral,,,yes,"Charity, working lads, Christianity"
+1885-2-2,,Prince Albert Victor in the East End,3,"Whittington Boys's Club, Leman St",positive,,,,club
+1885-3-23,,Police Intelligence,2,49 Prescott-Street Whitechapel,negative,yes,yes,,robbery
+1885-4-13,,Police Intelligence,2,Commercial Road East,negative,,yes,,robbery
+1885-4-16,,Politics in the Tower Hamlets,3,Great Alie-Street,neutral,,,,politics
+1885-6-3,,Working Lads' Institute,3,Working Lad's Institute,positive,,,,club
+1885-7-23,,,3,Working Lad's Institute,positive,,,,club
+1885-8-10,,Foreign Bounties,3,Leman St,neutral,,,,business
+1885-9-22,,Prosecution of Socialists,2,1 Tentner St,negative,,yes,,riot
+1885-10-3,,Police Intelligence,2,Leman St,negative,,yes,,forging
+1885-10-19,,Police Intelligence,2,Church Lane,negative,yes,yes,,assault
+1885-10-31,,,5,Working Lad's Institute,positive,,,,meeting
+1885-11-2,,,4,Working Lad's Institute,positive,,,,meeting
+1885-11-4,,Registration Appeals,2,5 Victoria cottages,neutral,,,,trial
+1885-11-19,,"Working Lad's Institute, Whitechapel",2,Working Lad's Institute,positive,,,,club
+1885-11-27,,Personation CAse,2,London Hosptial,negative,,yes,,fraud
+1885-12-8,,"Working Lad's Institute, Whitechapel",2,Working Lad's Institute,positive,,,,meeting
+1885-12-16,,Friendly Societies,3,Backchurch Lane,negative,,yes,,embezzlement
+1885-12-30,,Street Robberies,6,Whitechapel Road,negative,,yes,,robbery
+1885-12-13,,Serious Fire in Whitechaple,3,Hooper's sq & Rupert St,negative,,,,fire

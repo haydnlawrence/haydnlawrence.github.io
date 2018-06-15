@@ -1,0 +1,129 @@
+@media all and (min-width: 000px){
+    #map{
+        display: none;
+    }
+    #instruction_window{
+        display: none;
+    }
+    #size_warning_window{
+        display: block;
+    }
+
+}   
+@media all and (min-width: 800px){
+    #map{
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    #instruction_window{
+        display: block;
+    }
+    #size_warning_window{
+        display: none;
+    }     
+}
+.container{
+    height:100%;
+    width:100%;
+    max-width:100%;
+}
+/*  
+@media all and (min-width: 1000px){
+    #map{
+        height:500px;
+        width:1000px;
+        margin:0 auto;
+    }
+    #footer{
+        position: absolute;
+        width: 100%;
+        top: 700px;
+    }
+}  
+@media all and (min-width: 1200px){
+    #map{
+        height:600px;
+        width:1200px;
+        margin:0 auto;
+    }
+    #footer{
+        position: absolute;
+        width: 100%;
+        top: 800px;
+    }
+}  
+@media all and (min-width: 1400px){
+    #map{
+        height:700px;
+        width:1400px;
+        margin:0 auto;
+    }
+    #footer{
+        position: absolute;
+        width: 100%;
+        top: 900px;
+    }
+}                                      
+@media all and (min-width: 1600px){
+    #map{
+        height:800px;
+        width:1600px;
+        margin:0 auto;
+    }
+    #footer{
+        position: absolute;
+        width: 100%;
+        top: 1000px;
+    }
+}
+@media all and (min-width: 1800px){
+    #map{
+        height:900px;
+        width:1800px;
+        margin:0 auto;
+    }
+    #footer{
+        position: absolute;
+        width: 100%;
+        top: 1100px;
+    }
+}  
+@media all and (min-width: 2000px){
+    #map{
+        height:1000px;
+        width:2000px;
+        margin:0 auto;
+    }
+    #footer{
+        position: absolute;
+        width: 100%;
+        top: 1200px;
+    }
+}  
+@media all and (min-width: 2200px){
+    #map{
+        height:1100px;
+        width:2200px;
+        margin:0 auto;
+    }
+    #footer{
+        position: absolute;
+        width: 100%;
+        top: 1300px;
+    }
+}  
+@media all and (min-width: 2400px){
+    #map{
+        height:1200px;
+        width:2400px;
+        margin:0 auto;
+    }
+    #footer{
+        position: absolute;
+        width: 100%;
+        top: 1350px;
+    }
+}      
+*/                                            
+
